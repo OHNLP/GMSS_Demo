@@ -1,6 +1,6 @@
 # GMSS Demo — AIDE4HF NLP Pipeline
 
-> **Workshop demo repository** for the AIDE4HF project  
+> **Geriatric Medication Safety Symposium AI Workshop demo repository** for the AIDE4HF project  
 > *AI-Driven Detection of Adverse Drug Events in Heart Failure Patients*  
 > UTHealth Houston · McGovern Medical School & McWilliams School of Biomedical Informatics
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-AIDE4HF is an NIH R21-funded hybrid NLP pipeline that automatically extracts **heart failure (HF) medications**, **clinical symptoms**, and **adverse drug event (ADE) signals** from free-text clinical notes in electronic health records (EHR).
+AIDE4HF is an NIA A2Pilot funded hybrid NLP pipeline that automatically extracts **heart failure (HF) medications**, **clinical symptoms**, and **adverse drug event (ADE) signals** from free-text clinical notes in electronic health records (EHR).
 
 This repository provides a self-contained demo for workshop participants to run the full pipeline on a sample patient note and inspect the structured XML output.
 
@@ -194,7 +194,7 @@ Check with: `python --version`
 
 If you use this pipeline in your research, please cite:
 
-> Kwak S, Fu S, et al. *AIDE4HF: AI-Driven Detection of Adverse Drug Events in Heart Failure Patients.* NIH R21 Project, UTHealth Houston, 2024.
+>Fu S, Kwak S *AIDE4HF: AI-Driven Detection of Adverse Drug Events in Heart Failure Patients.* GMSS Workshop 2026.
 
 ---
 
@@ -207,6 +207,4 @@ For licensing inquiries please contact the OHNLP group at UTHealth Houston.
 
 ## Contact
 
-**PI:** Dr. Sunghwan Sohn Fu — McWilliams School of Biomedical Informatics, UTHealth Houston  
-**Co-PI:** Dr. Seongkum Kwak — McGovern Medical School, Division of Geriatric Medicine  
 **Organization:** [OHNLP GitHub](https://github.com/OHNLP)
