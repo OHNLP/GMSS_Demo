@@ -1,0 +1,9 @@
+cough
+angioedema
+dizziness
+syncope
+hyperkalemia
+hypotension
+renal impairment
+AKI
+kidney injury

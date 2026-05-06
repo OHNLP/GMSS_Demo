@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AIDE4HF_schema_1_0>
+  <TEXT><![CDATA[y.o. female with past medical history of hypertension, dyslipidemia, hypothyroidism, heart failure-full details not available, was following up with a cardiologist here to establish care.
+Patient denies any chest pain chest pressure suggestive of angina.
+No prior history of CAD or arrhythmias.
+Patient has bilateral lower extremity edema but denies any dyspnea, orthopnea or PND.
+Blood pressures well controlled carvedilol and amlodipine and chlorthalidone/azilsartan combination pill.
+Patient has issues with balance issues and had few falls.
+Last creatinine was 1.1.
+Denies any other issues.
+The following portions of the chart were reviewed this encounter and updated as appropriate:
+Past Medical History
+Past Medical History:
+CNS: No focal neurological deficit
+Skin: Normal
+Cardiac Investigations
+EKG (PCP visit)
+Sinus bradycardia, heart rate 58 bpm, first-degree AV block, PVCs, left axis deviation, borderline poor R wave progression.
+Assessment/Plan
+1.
+Heart failure
+Patient has history of heart failure-full details not available.
+Patient is here to establish care.
+Patient has bilateral lower extremity edema without any crackles or other heart failure symptoms.
+We have recommended her to use Lasix 40 mg p.o. daily for 3 to 5 days and as needed after that.
+Last creatinine was 1.1.
+Will obtain an echocardiogram to assess LVEF and valvular function.
+Further management depending upon echocardiogram results.
+2.
+Hypertension
+Blood pressures well controlled on amlodipine 5 mg p.o. daily, carvedilol 12.5 mg p.o. twice daily and as losartan combination pill.
+]]></TEXT>
+  <TAGS>
+    <!-- ==================== MEDTAGGER ENTITIES ==================== -->
+    <HFSymptoms spans="207~217" text="chest pain" id="T0" certainty="negated" status="present" experiencer="patient" exclusion="no" comment="Patient denies any chest pain chest pressure suggestive of angina."/>
+    <HFSymptoms spans="333~338" text="edema" id="T1" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Patient has bilateral lower extremity edema but denies any dyspnea, orthopnea or PND."/>
+    <Ivabradine spans="824~835" text="bradycardia" id="T2" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Sinus bradycardia, heart rate 58 bpm, first-degree AV block, PVCs, left axis deviation, borderline poor R wave progression."/>
+    <betaBlockers spans="824~835" text="bradycardia" id="T3" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Sinus bradycardia, heart rate 58 bpm, first-degree AV block, PVCs, left axis deviation, borderline poor R wave progression."/>
+    <HFSymptoms spans="1113~1118" text="edema" id="T4" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Patient has bilateral lower extremity edema without any crackles or other heart failure symptoms."/>
+    <!-- ==================== MEDXN MEDICATIONS ==================== -->
+    <betaBlockers spans="413~423" text="carvedilol" id="M0" rxnorm_cui="20352" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Blood pressures well controlled carvedilol and amlodipine and chlorthalidone/azilsartan combination pill."/>
+    <Vasodilator spans="428~438" text="amlodipine" id="M1" rxnorm_cui="17767" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Blood pressures well controlled carvedilol and amlodipine and chlorthalidone/azilsartan combination pill."/>
+    <Diuretics spans="443~457" text="chlorthalidone" id="M2" rxnorm_cui="2409" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Blood pressures well controlled carvedilol and amlodipine and chlorthalidone/azilsartan combination pill."/>
+    <ARB spans="458~468" text="azilsartan" id="M3" rxnorm_cui="1091643" form="pill" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="Blood pressures well controlled carvedilol and amlodipine and chlorthalidone/azilsartan combination pill."/>
+    <Diuretics spans="1204~1209" text="Lasix" id="M4" rxnorm_cui="202991" dose="40 mg" route="p.o." frequency="daily | as needed" duration="5 days" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="We have recommended her to use Lasix 40 mg p.o. daily for 3 to 5 days and as needed after that."/>
+    <Vasodilator spans="1471~1481" text="amlodipine" id="M5" rxnorm_cui="17767" dose="5 mg" route="p.o." frequency="daily" normalized_name="amlodipine 5 MG" rxnorm_cui_normalized="329528" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="2. Hypertension Blood pressures well controlled on amlodipine 5 mg p.o. daily, carvedilol 12.5 mg p.o. twice daily and as losartan combination pill."/>
+    <betaBlockers spans="1499~1509" text="carvedilol" id="M6" rxnorm_cui="20352" dose="12.5 mg" route="p.o." frequency="twice daily" normalized_name="carvedilol 12.5 MG" rxnorm_cui_normalized="315575" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="2. Hypertension Blood pressures well controlled on amlodipine 5 mg p.o. daily, carvedilol 12.5 mg p.o. twice daily and as losartan combination pill."/>
+    <ARB spans="1542~1550" text="losartan" id="M7" rxnorm_cui="52175" form="pill" certainty="confirmed" status="present" experiencer="patient" exclusion="no" comment="2. Hypertension Blood pressures well controlled on amlodipine 5 mg p.o. daily, carvedilol 12.5 mg p.o. twice daily and as losartan combination pill."/>
+  </TAGS>
+  <META>
+    <label color="yellow"/>
+  </META>
+</AIDE4HF_schema_1_0>

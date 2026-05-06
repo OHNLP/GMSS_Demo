@@ -1,0 +1,5 @@
+dizziness
+hypotension
+bradycardia
+syncope
+fall

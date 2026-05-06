@@ -1,0 +1,116 @@
+Input Dir:	/Users/sfu3/Desktop/GMSS/input
+Output Dir:	/Users/sfu3/Desktop/GMSS/output
+IE Rules:	/Users/sfu3/Desktop/GMSS/models/AITC
+May 06, 2026 9:08:27 AM opennlp.uima.sentdetect.AbstractSentenceDetector initialize(61)
+INFO: Initializing the OpenNLP Sentence annotator.
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.IsRemoveExistingAnnotations = not set
+/Users/sfu3/Desktop/GMSS/models/AITC/context/contextRule.txt
+2026-05-06 09:08:27 INFO  LvgLookup:144 - loading LVG condensed dictionary from dictStream
+2026-05-06 09:08:27 INFO  LvgLookup:162 - loaded resource, lines=87272
+May 06, 2026 9:08:27 AM opennlp.uima.postag.POSTagger initialize(111)
+INFO: Initializing the OpenNLP Part of Speech annotator.
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.BeamSize = not set
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reVasodilator
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reSGLT
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reHFSymptoms
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reDiuretics
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: rebetaBlockers
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reARNI
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reIvabradine
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reARB
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reMRA
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding regexp from resource: reACEi
+2026-05-06 09:08:27 INFO  ResourceUtilManager:139 - Adding rules from resource: matchrules
+Processing documents:    0% [33m│                                   │[0m 0/1 (0:00:00 / ?) May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ContainerType = not set
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.SentenceType = org.ohnlp.typesystem.type.textspan.Sentence
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ProbabilityFeature = not set
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.SentenceType = org.ohnlp.typesystem.type.textspan.Sentence
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.TokenType = org.ohnlp.typesystem.type.syntax.BaseToken
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.POSFeature = partOfSpeech
+May 06, 2026 9:08:27 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ProbabilityFeature = not set
+Processing documents:  100% [33m│█████████████████████████████│[0m 1/1 (0:00:00 / 0:00:00) 
+Input Dir:	/Users/sfu3/Desktop/GMSS/input
+Output File:	/Users/sfu3/Desktop/GMSS/output/_combined.out
+May 06, 2026 9:08:29 AM opennlp.uima.chunker.Chunker initialize(113)
+INFO: Initializing the OpenNLP Chunker annotator.
+May 06, 2026 9:08:29 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(75)
+INFO: 100000
+May 06, 2026 9:08:29 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(75)
+INFO: 200000
+May 06, 2026 9:08:29 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(85)
+INFO: built aho-corasick trie. 200780 terms
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(75)
+INFO: 100000
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(75)
+INFO: 200000
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(85)
+INFO: built aho-corasick trie. 200780 terms
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.lvg.LvgLookup localInitialize(138)
+INFO: loading LVG condensed dictionary from dictStream
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.lvg.LvgLookup localInitialize(156)
+INFO: loaded resource, lines=87272
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(75)
+INFO: 100000
+May 06, 2026 9:08:30 AM org.ohnlp.medtagger.dict.AhoCorasickDict <init>(85)
+INFO: built aho-corasick trie. 107393 terms
+May 06, 2026 9:08:30 AM opennlp.uima.postag.POSTagger initialize(111)
+INFO: Initializing the OpenNLP Part of Speech annotator.
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.BeamSize = not set
+May 06, 2026 9:08:30 AM opennlp.uima.tokenize.AbstractTokenizer initialize(71)
+INFO: Initializing the OpenNLP Tokenizer annotator.
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.IsRemoveExistingAnnotations = not set
+May 06, 2026 9:08:30 AM opennlp.uima.sentdetect.AbstractSentenceDetector initialize(61)
+INFO: Initializing the OpenNLP Sentence annotator.
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.IsRemoveExistingAnnotations = not set
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ContainerType = not set
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.SentenceType = org.ohnlp.typesystem.type.textspan.Sentence
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ProbabilityFeature = not set
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.SentenceType = org.ohnlp.typesystem.type.textspan.Sentence
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.TokenType = org.ohnlp.typesystem.type.syntax.BaseToken
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ProbabilityFeature = not set
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.SentenceType = org.ohnlp.typesystem.type.textspan.Sentence
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.TokenType = org.ohnlp.typesystem.type.syntax.BaseToken
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.POSFeature = partOfSpeech
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ProbabilityFeature = not set
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ChunkType = org.ohnlp.typesystem.type.syntax.Chunk
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.ChunkTagFeature = chunkType
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.TokenType = org.ohnlp.typesystem.type.syntax.BaseToken
+May 06, 2026 9:08:30 AM opennlp.uima.util.AnnotatorUtil getOptionalParameter(422)
+INFO: opennlp.uima.POSFeature = partOfSpeech
+
+=== DEBUG INFO ===
+TEXT FILES:       ['patient_HF_ADE_sample.txt']
+MEDTAGGER FILES:  ['patient_HF_ADE_sample.txt']
+MEDXN FILES:      ['patient_HF_ADE_sample.txt']
+MEDTAGGER COUNTS: {'patient_HF_ADE_sample.txt': 5}
+MEDXN COUNTS:     {'patient_HF_ADE_sample.txt': 8}
+MEDXN MAPPING [patient_HF_ADE_sample.txt]: {'carvedilol': 'betaBlockers', 'amlodipine': 'Vasodilator', 'chlorthalidone': 'Diuretics', 'azilsartan': 'ARB', 'Lasix': 'Diuretics', 'losartan': 'ARB'} -> all mapped
+==================
+
+  Wrote: /Users/sfu3/Desktop/GMSS/output/patient_HF_ADE_sample.txt.xml
+✅ XML generation COMPLETE

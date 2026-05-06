@@ -1,0 +1,241 @@
+<!ENTITY name "AIDE4HF_schema_1_0">
+
+<!-- version 1.2
+     HF drug-class elements (ACEi, ARB, ARNI, betaBlockers, Diuretics,
+     Ivabradine, MRA, SGLT, Vasodilator) now carry full prescription
+     attributes from MedXN output.  The generic <Medication> element is
+     retained as a fallback for drugs that cannot be mapped to an HF class.
+     HFSymptoms retains context attributes only (no prescription detail).
+-->
+
+<!-- ================================================================
+     SHARED ATTRIBUTE SET — context (all elements)
+     certainty  : assertion status from MedTagger / default confirmed
+     status     : present (current encounter) | history (past)
+     experiencer: patient | other (family member etc.)
+     exclusion  : flag annotation for exclusion from analysis
+     comment    : sentence context or adjudication note
+     ================================================================ -->
+
+<!-- ================================================================
+     SHARED ATTRIBUTE SET — prescription detail (HF drug class elements)
+     Populated from MedXN pipe-delimited output columns:
+       rxnorm_cui        col [2]  RxNorm concept ID of the surface form
+       dose              col [3]  e.g. "40 mg"
+       strength          col [4]  e.g. "12.5 MG" (when present)
+       form              col [5]  e.g. "pill", "tablet"
+       route             col [6]  e.g. "p.o.", "IV"
+       frequency         col [7]  e.g. "daily", "twice daily | as needed"
+       duration          col [8]  e.g. "5 days"
+       normalized_name   col [9]  RxNorm normalized drug+strength string
+       rxnorm_cui_normalized col [10] RxNorm CUI of the normalized form
+     ================================================================ -->
+
+<!ELEMENT ACEi ( #PCDATA ) >
+<!ATTLIST ACEi spans              CDATA #REQUIRED >
+<!ATTLIST ACEi text               CDATA #REQUIRED >
+<!ATTLIST ACEi id                 CDATA #REQUIRED >
+<!ATTLIST ACEi rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST ACEi dose               CDATA #IMPLIED >
+<!ATTLIST ACEi strength           CDATA #IMPLIED >
+<!ATTLIST ACEi form               CDATA #IMPLIED >
+<!ATTLIST ACEi route              CDATA #IMPLIED >
+<!ATTLIST ACEi frequency          CDATA #IMPLIED >
+<!ATTLIST ACEi duration           CDATA #IMPLIED >
+<!ATTLIST ACEi normalized_name    CDATA #IMPLIED >
+<!ATTLIST ACEi rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST ACEi certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST ACEi status       ( history | present ) #IMPLIED >
+<!ATTLIST ACEi experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST ACEi exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST ACEi comment      CDATA #IMPLIED >
+
+<!ELEMENT ARB ( #PCDATA ) >
+<!ATTLIST ARB spans               CDATA #REQUIRED >
+<!ATTLIST ARB text                CDATA #REQUIRED >
+<!ATTLIST ARB id                  CDATA #REQUIRED >
+<!ATTLIST ARB rxnorm_cui          CDATA #IMPLIED >
+<!ATTLIST ARB dose                CDATA #IMPLIED >
+<!ATTLIST ARB strength            CDATA #IMPLIED >
+<!ATTLIST ARB form                CDATA #IMPLIED >
+<!ATTLIST ARB route               CDATA #IMPLIED >
+<!ATTLIST ARB frequency           CDATA #IMPLIED >
+<!ATTLIST ARB duration            CDATA #IMPLIED >
+<!ATTLIST ARB normalized_name     CDATA #IMPLIED >
+<!ATTLIST ARB rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST ARB certainty     ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST ARB status        ( history | present ) #IMPLIED >
+<!ATTLIST ARB experiencer   ( patient | other )  #IMPLIED >
+<!ATTLIST ARB exclusion     ( yes | no )         #IMPLIED >
+<!ATTLIST ARB comment       CDATA #IMPLIED >
+
+<!ELEMENT ARNI ( #PCDATA ) >
+<!ATTLIST ARNI spans              CDATA #REQUIRED >
+<!ATTLIST ARNI text               CDATA #REQUIRED >
+<!ATTLIST ARNI id                 CDATA #REQUIRED >
+<!ATTLIST ARNI rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST ARNI dose               CDATA #IMPLIED >
+<!ATTLIST ARNI strength           CDATA #IMPLIED >
+<!ATTLIST ARNI form               CDATA #IMPLIED >
+<!ATTLIST ARNI route              CDATA #IMPLIED >
+<!ATTLIST ARNI frequency          CDATA #IMPLIED >
+<!ATTLIST ARNI duration           CDATA #IMPLIED >
+<!ATTLIST ARNI normalized_name    CDATA #IMPLIED >
+<!ATTLIST ARNI rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST ARNI certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST ARNI status       ( history | present ) #IMPLIED >
+<!ATTLIST ARNI experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST ARNI exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST ARNI comment      CDATA #IMPLIED >
+
+<!ELEMENT betaBlockers ( #PCDATA ) >
+<!ATTLIST betaBlockers spans              CDATA #REQUIRED >
+<!ATTLIST betaBlockers text               CDATA #REQUIRED >
+<!ATTLIST betaBlockers id                 CDATA #REQUIRED >
+<!ATTLIST betaBlockers rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST betaBlockers dose               CDATA #IMPLIED >
+<!ATTLIST betaBlockers strength           CDATA #IMPLIED >
+<!ATTLIST betaBlockers form               CDATA #IMPLIED >
+<!ATTLIST betaBlockers route              CDATA #IMPLIED >
+<!ATTLIST betaBlockers frequency          CDATA #IMPLIED >
+<!ATTLIST betaBlockers duration           CDATA #IMPLIED >
+<!ATTLIST betaBlockers normalized_name    CDATA #IMPLIED >
+<!ATTLIST betaBlockers rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST betaBlockers certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST betaBlockers status       ( history | present ) #IMPLIED >
+<!ATTLIST betaBlockers experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST betaBlockers exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST betaBlockers comment      CDATA #IMPLIED >
+
+<!ELEMENT Diuretics ( #PCDATA ) >
+<!ATTLIST Diuretics spans              CDATA #REQUIRED >
+<!ATTLIST Diuretics text               CDATA #REQUIRED >
+<!ATTLIST Diuretics id                 CDATA #REQUIRED >
+<!ATTLIST Diuretics rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST Diuretics dose               CDATA #IMPLIED >
+<!ATTLIST Diuretics strength           CDATA #IMPLIED >
+<!ATTLIST Diuretics form               CDATA #IMPLIED >
+<!ATTLIST Diuretics route              CDATA #IMPLIED >
+<!ATTLIST Diuretics frequency          CDATA #IMPLIED >
+<!ATTLIST Diuretics duration           CDATA #IMPLIED >
+<!ATTLIST Diuretics normalized_name    CDATA #IMPLIED >
+<!ATTLIST Diuretics rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST Diuretics certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST Diuretics status       ( history | present ) #IMPLIED >
+<!ATTLIST Diuretics experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST Diuretics exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST Diuretics comment      CDATA #IMPLIED >
+
+<!-- HFSymptoms: context attributes only — no prescription detail -->
+<!ELEMENT HFSymptoms ( #PCDATA ) >
+<!ATTLIST HFSymptoms spans        CDATA #REQUIRED >
+<!ATTLIST HFSymptoms text         CDATA #REQUIRED >
+<!ATTLIST HFSymptoms id           CDATA #REQUIRED >
+<!ATTLIST HFSymptoms certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST HFSymptoms status       ( history | present ) #IMPLIED >
+<!ATTLIST HFSymptoms experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST HFSymptoms exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST HFSymptoms comment      CDATA #IMPLIED >
+
+<!ELEMENT Ivabradine ( #PCDATA ) >
+<!ATTLIST Ivabradine spans              CDATA #REQUIRED >
+<!ATTLIST Ivabradine text               CDATA #REQUIRED >
+<!ATTLIST Ivabradine id                 CDATA #REQUIRED >
+<!ATTLIST Ivabradine rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST Ivabradine dose               CDATA #IMPLIED >
+<!ATTLIST Ivabradine strength           CDATA #IMPLIED >
+<!ATTLIST Ivabradine form               CDATA #IMPLIED >
+<!ATTLIST Ivabradine route              CDATA #IMPLIED >
+<!ATTLIST Ivabradine frequency          CDATA #IMPLIED >
+<!ATTLIST Ivabradine duration           CDATA #IMPLIED >
+<!ATTLIST Ivabradine normalized_name    CDATA #IMPLIED >
+<!ATTLIST Ivabradine rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST Ivabradine certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST Ivabradine status       ( history | present ) #IMPLIED >
+<!ATTLIST Ivabradine experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST Ivabradine exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST Ivabradine comment      CDATA #IMPLIED >
+
+<!ELEMENT MRA ( #PCDATA ) >
+<!ATTLIST MRA spans              CDATA #REQUIRED >
+<!ATTLIST MRA text               CDATA #REQUIRED >
+<!ATTLIST MRA id                 CDATA #REQUIRED >
+<!ATTLIST MRA rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST MRA dose               CDATA #IMPLIED >
+<!ATTLIST MRA strength           CDATA #IMPLIED >
+<!ATTLIST MRA form               CDATA #IMPLIED >
+<!ATTLIST MRA route              CDATA #IMPLIED >
+<!ATTLIST MRA frequency          CDATA #IMPLIED >
+<!ATTLIST MRA duration           CDATA #IMPLIED >
+<!ATTLIST MRA normalized_name    CDATA #IMPLIED >
+<!ATTLIST MRA rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST MRA certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST MRA status       ( history | present ) #IMPLIED >
+<!ATTLIST MRA experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST MRA exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST MRA comment      CDATA #IMPLIED >
+
+<!ELEMENT SGLT ( #PCDATA ) >
+<!ATTLIST SGLT spans              CDATA #REQUIRED >
+<!ATTLIST SGLT text               CDATA #REQUIRED >
+<!ATTLIST SGLT id                 CDATA #REQUIRED >
+<!ATTLIST SGLT rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST SGLT dose               CDATA #IMPLIED >
+<!ATTLIST SGLT strength           CDATA #IMPLIED >
+<!ATTLIST SGLT form               CDATA #IMPLIED >
+<!ATTLIST SGLT route              CDATA #IMPLIED >
+<!ATTLIST SGLT frequency          CDATA #IMPLIED >
+<!ATTLIST SGLT duration           CDATA #IMPLIED >
+<!ATTLIST SGLT normalized_name    CDATA #IMPLIED >
+<!ATTLIST SGLT rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST SGLT certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST SGLT status       ( history | present ) #IMPLIED >
+<!ATTLIST SGLT experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST SGLT exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST SGLT comment      CDATA #IMPLIED >
+
+<!ELEMENT Vasodilator ( #PCDATA ) >
+<!ATTLIST Vasodilator spans              CDATA #REQUIRED >
+<!ATTLIST Vasodilator text               CDATA #REQUIRED >
+<!ATTLIST Vasodilator id                 CDATA #REQUIRED >
+<!ATTLIST Vasodilator rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST Vasodilator dose               CDATA #IMPLIED >
+<!ATTLIST Vasodilator strength           CDATA #IMPLIED >
+<!ATTLIST Vasodilator form               CDATA #IMPLIED >
+<!ATTLIST Vasodilator route              CDATA #IMPLIED >
+<!ATTLIST Vasodilator frequency          CDATA #IMPLIED >
+<!ATTLIST Vasodilator duration           CDATA #IMPLIED >
+<!ATTLIST Vasodilator normalized_name    CDATA #IMPLIED >
+<!ATTLIST Vasodilator rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST Vasodilator certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST Vasodilator status       ( history | present ) #IMPLIED >
+<!ATTLIST Vasodilator experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST Vasodilator exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST Vasodilator comment      CDATA #IMPLIED >
+
+<!-- Fallback for drugs not mappable to an HF drug class -->
+<!ELEMENT Medication ( #PCDATA ) >
+<!ATTLIST Medication spans              CDATA #REQUIRED >
+<!ATTLIST Medication text               CDATA #REQUIRED >
+<!ATTLIST Medication id                 CDATA #REQUIRED >
+<!ATTLIST Medication rxnorm_cui         CDATA #IMPLIED >
+<!ATTLIST Medication dose               CDATA #IMPLIED >
+<!ATTLIST Medication strength           CDATA #IMPLIED >
+<!ATTLIST Medication form               CDATA #IMPLIED >
+<!ATTLIST Medication route              CDATA #IMPLIED >
+<!ATTLIST Medication frequency          CDATA #IMPLIED >
+<!ATTLIST Medication duration           CDATA #IMPLIED >
+<!ATTLIST Medication normalized_name    CDATA #IMPLIED >
+<!ATTLIST Medication rxnorm_cui_normalized CDATA #IMPLIED >
+<!ATTLIST Medication certainty    ( confirmed | hypothetical | possible | negated ) #IMPLIED >
+<!ATTLIST Medication status       ( history | present ) #IMPLIED >
+<!ATTLIST Medication experiencer  ( patient | other )  #IMPLIED >
+<!ATTLIST Medication exclusion    ( yes | no )         #IMPLIED >
+<!ATTLIST Medication comment      CDATA #IMPLIED >
+
+
+<!-- No #PCDATA makes a relation concept -->
+<!ELEMENT LINK_DRUG_SYMPTOM EMPTY >
+<!ATTLIST LINK_DRUG_SYMPTOM arg0 IDREF prefix="link_medication" #IMPLIED>
+<!ATTLIST LINK_DRUG_SYMPTOM arg1 IDREF prefix="link_symptom" #IMPLIED>
+<!ATTLIST LINK_DRUG_SYMPTOM comment CDATA "NA" >

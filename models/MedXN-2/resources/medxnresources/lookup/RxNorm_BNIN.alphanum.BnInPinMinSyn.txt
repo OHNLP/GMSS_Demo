@@ -1,0 +1,835 @@
+1 1 methylethylamino 3 1 naphthalenyloxy 2 propanol|8787|IN|propranolol
+1 1h indol 4 yloxy 3 1 methylethylaminopropan 2 ol|8332|IN|pindolol
+1 1h indol 4 yloxy 3 isopropylaminopropan 2 ol|8332|IN|pindolol
+1 1h indol 4 yloxy 3 propan 2 ylamino propan 2 ol|8332|IN|pindolol
+1 4 3 6 dianhydrosorbitol	2 5 dinitrate|6058|IN|isosorbide dinitrate
+1 6 anhydro 1 c 4 chloro 3 4 ethoxyphenylmethylphenyl 5 c hydroxymethyl l idopyranose|1992672|IN|ertugliflozin
+1 alpha 2 isopropoxyethoxy p tolyloxy 3 isopropylamino 2 propanol|19484|IN|bisoprolol
+1 carbazol 4 yloxy 3 2 o methoxyphenoxyethylamino 2 propanol|20352|IN|carvedilol
+1 chloro 4 glucopyranos 1 yl 2 4 tetrahydrofuran 3 yloxybenzylbenzene|1545653|IN|empagliflozin
+1 hydrazinophthalazine|5470|IN|hydralazine
+1 isopropyl 3 4 m toluidino 3 pyridylsulfonylurea|38413|IN|torsemide
+1 isopropylamino 3 1 naphthyloxypropan 2 ol|8787|IN|propranolol
+1 n s 1 carboxy 3 phenylpropyl l alanyl l proline	1 ethyl	ester|3827|IN|enalapril
+1 p carbamoylmethylphenoxy 3 isopropylamino 2 propanol|1202|IN|atenolol
+1 phthalazinylhydrazine|5470|IN|hydralazine
+1s 1 5 anhydro 1 4 chloro 3 4 3s tetrahydrofuran 3 yloxybenzyl phenyl d glucitol|1545653|IN|empagliflozin
+1s 2s 3s 4r 5s 5 4 chloro 3 4 ethoxybenzylphenyl 1 hydroxymethyl 6 8 dioxabicyclo3 2 1octane 2 3 4 triol|1992672|IN|ertugliflozin
+1z 12h phthalazinone	hydrazone|5470|IN|hydralazine
+2 butyl 3 2 1h tetrazol 5 ylbiphenyl 4 ylmethyl 1 3 diazaspiro4 4non 1 en 4 one|83818|IN|irbesartan
+2 butyl 4 chloro 1 2 1h tetrazol 5 ylbiphenyl 4 ylmethyl 1h imidazol 5 ylmethanol|52175|IN|losartan
+2 methyl 3 o tolyl 6 sulfamyl 7 chloro 1 2 3 4 tetrahydro 4 quinazolinone|6916|IN|metolazone
+2 n butyl 4 chloro 5 hydroxymethyl 1 2 1h tetrazol 5 ylbiphenyl 4 ylmethylimidazole|52175|IN|losartan
+2 p 2 hydroxy 3 isopropylaminopropoxyphenylacetamide|1202|IN|atenolol
+2h phthalazinone	hydrazone|5470|IN|hydralazine
+2s 1 2s 2 methyl 3 sulfanylpropanoylpyrrolidine 2 carboxylic	acid|1998|IN|captopril
+2s 1r r 2alpha 3abeta 6abeta 1 2 1 ethoxycarbonyl 3 phenylpropylamino 1 oxopropyloctahydrocyclopentabpyrrole 2 carboxylic	acid|35296|IN|ramipril
+2s 3as 7as 1 2s 2 2s 1 ethoxy 1 oxopentan 2 ylamino propanoyloctahydro 1h indole 2 carboxylic	acid|54552|IN|perindopril
+2s 3r 4r 5s 6r 2 4 chloro 3 4 2 cyclopropyloxyethoxyphenylmethylphenyl 6 hydroxymethyltetrahydro 2h pyran 3 4 5 triol|2627044|IN|bexagliflozin
+2s 3r 4r 5s 6r 2 4 chloro 3 4 ethoxybenzylphenyl 6 	hydroxymethyltetrahydro 2h pyran 3 4 5 triol|1488564|IN|dapagliflozin
+3 3 7s 3 4 dimethoxybicyclo4 2 0octa 1 3 5 trien 7 ylmethyl methylaminopropyl 7 8 dimethoxy 2 3 4 5 tetrahydro 1h 3 benzazepin 2 one|1649480|IN|ivabradine
+3 acetyl 4 2 hydroxy 3 isopropylaminopropoxybutyranilide|149|IN|acebutolol
+3 aminosulfonyl 5 butylamino 4 phenoxybenzoic	acid|1808|IN|bumetanide
+3 butylamino 4 phenoxy 5 sulfamoyl benzoic	acid|1808|IN|bumetanide
+3 butylamino 4 phenoxy 5 sulfamoylbenzoic	acid|1808|IN|bumetanide
+3 carboxamido 4 hydroxy alpha 1 methyl 3 phenylpropylaminomethylbenzyl	alcohol|6185|IN|labetalol
+4 1 4 dimethyl 2 propyl2 6 bi 1h benzimidazol 1 ylmethyl 1 1 biphenyl 2 carboxylic	acid|73494|IN|telmisartan
+4 1 7 dimethyl 2 propyl 1h 3 h 2 5 bibenzimidazol 3 ylmethylbiphenyl 2 carboxylic	acid|73494|IN|telmisartan
+4 1 hydroxy 1 methylethyl 2 propyl 1 2 1h tetrazol 5 ylbiphenyl 4 ylmethyl 1h imidazole 5 carboxylic	acid|321064|IN|olmesartan
+4 1 hydroxy 2 isopropylaminoethylmethane	sulfonanilide|9947|IN|sotalol
+4 2 hydroxy 3 1 methylethylaminopropoxybenzeneacetamide|1202|IN|atenolol
+4 2 hydroxy 3 isopropylaminopropoxy indole|8332|IN|pindolol
+4 4 methyl 6 1 methyl 2 benzimidazolyl 2 propyl 1 benzimidazolylmethyl 2 biphenylcarboxylic	acid|73494|IN|telmisartan
+4 hydroxy 1 methylethyl 2 propyl 1 2 1h tetrazol 5 yl 1 1 biphenyl 4 ylmethyl 1h imidazole 5 carboxylic	acid|321064|IN|olmesartan
+5 1 hydroxy 2 1 methyl 3 phenylpropylaminoethylsalicylamide|6185|IN|labetalol
+5 butyramido 2 2 hydroxy 3 isopropylaminopropoxyacetophenone|149|IN|acebutolol
+6 hydralazine|5470|IN|hydralazine
+7 chloro 1 2 3 4 tetrahydro 2 methyl 3 2 methylphenyl 4 oxo 6 quinazolinesulfonamide|6916|IN|metolazone
+7 chloro 1 2 3 4 tetrahydro 2 methyl 4 oxo 3 o tolyl 6 quinazolinesulfonamide|6916|IN|metolazone
+acebutolol|149|IN|acebutolol
+acebutolol	and	thiazides|1429820|BN|Acebutolol and thiazides
+acebutolol	hcl|142130|PIN|acebutolol hydrochloride
+acebutolol	hydrochloride|142130|PIN|acebutolol hydrochloride
+acebutolol	hydrochloride	substance|142130|PIN|acebutolol hydrochloride
+acebutolol	hydrochlorothiazide|392564|MIN|acebutolol / hydrochlorothiazide
+acebutolol	mefruside|1007003|MIN|acebutolol / mefruside
+acebutolol	nifedipine|1008980|MIN|acebutolol / nifedipine
+acebutolol	substance|149|IN|acebutolol
+acebutolol 	and	hydrochlorothiazide containing	product|392564|MIN|acebutolol / hydrochlorothiazide
+acebutolol containing	product|149|IN|acebutolol
+acebutololum|149|IN|acebutolol
+acetobutolol|149|IN|acebutolol
+aliskiren	valsartan|900937|MIN|aliskiren / valsartan
+aliskiren 	and	valsartan containing	product|900937|MIN|aliskiren / valsartan
+aliskiren valsartan|900937|MIN|aliskiren / valsartan
+althiazide	spironolactone|1008908|MIN|althiazide / spironolactone
+amiloride	atenolol	hydrochlorothiazide|153154|MIN|amiloride / atenolol / hydrochlorothiazide
+amiloride	bumetanide|645371|MIN|amiloride / bumetanide
+amiloride	furosemide|818351|MIN|amiloride / furosemide
+amiloride	furosemide	indapamide|1009094|MIN|amiloride / furosemide / indapamide
+amiloride	hydrochlorothiazide	timolol|812786|MIN|amiloride / hydrochlorothiazide / timolol
+amiloride	metolazone|1007938|MIN|amiloride / metolazone
+amiloride 	and	atenolol 	and	hydrochlorothiazide containing	product|153154|MIN|amiloride / atenolol / hydrochlorothiazide
+amiloride 	and	bumetanide containing	product|645371|MIN|amiloride / bumetanide
+amiloride 	and	furosemide containing	product|818351|MIN|amiloride / furosemide
+amiloride 	and	hydrochlorothiazide 	and	timolol containing	product|812786|MIN|amiloride / hydrochlorothiazide / timolol
+amlodipine	benazepril|214223|MIN|amlodipine / benazepril
+amlodipine	besylate benazepril	hydrochloride|392515|MIN|Amlodipine besylate-benazepril hydrochloride
+amlodipine	besylate telmisartan|1489031|IN|Amlodipine besylate-telmisartan
+amlodipine	besylate valsartan|1636625|IN|Amlodipine besylate-valsartan
+amlodipine	hydrochlorothiazide	olmesartan|1008801|MIN|amlodipine / hydrochlorothiazide / olmesartan
+amlodipine	hydrochlorothiazide	valsartan|852897|MIN|amlodipine / hydrochlorothiazide / valsartan
+amlodipine	olmesartan|1009015|MIN|amlodipine / olmesartan
+amlodipine	perindopril|1033889|MIN|amlodipine / perindopril
+amlodipine	telmisartan|901212|MIN|amlodipine / telmisartan
+amlodipine	valsartan|729455|MIN|amlodipine / valsartan
+amlodipine 	and	benazepril containing	product|214223|MIN|amlodipine / benazepril
+amlodipine 	and	hydrochlorothiazide 	and	olmesartan containing	product|1008801|MIN|amlodipine / hydrochlorothiazide / olmesartan
+amlodipine 	and	hydrochlorothiazide 	and	valsartan containing	product|852897|MIN|amlodipine / hydrochlorothiazide / valsartan
+amlodipine 	and	olmesartan containing	product|1009015|MIN|amlodipine / olmesartan
+amlodipine 	and	perindopril containing	product|1033889|MIN|amlodipine / perindopril
+amlodipine 	and	telmisartan containing	product|901212|MIN|amlodipine / telmisartan
+amlodipine 	and	valsartan containing	product|729455|MIN|amlodipine / valsartan
+amlodipine benazepril|214223|MIN|amlodipine / benazepril
+amlodipine hctz olmesartan	medoxomil|1988926|IN|Amlodipine/hctz/olmesartan medoxomil
+amlodipine hydrochlorothiazide olmesartan|1008801|MIN|amlodipine / hydrochlorothiazide / olmesartan
+amlodipine hydrochlorothiazide valsartan|852897|MIN|amlodipine / hydrochlorothiazide / valsartan
+amlodipine olmesartan|1009015|MIN|amlodipine / olmesartan
+amlodipine olmesartan	medoxomil|1431039|MIN|Amlodipine-olmesartan medoxomil
+amlodipine perindopril|1033889|MIN|amlodipine / perindopril
+amlodipine telmisartan|901212|MIN|amlodipine / telmisartan
+amlodipine valsartan|729455|MIN|amlodipine / valsartan
+atenolol|1202|IN|atenolol
+atenolol	and	nifedipine|392475|MIN|atenolol / nifedipine
+atenolol	and	other	diuretics|1429787|BN|Atenolol and other diuretics
+atenolol	and	other	diuretics	combinations|1429521|MIN|Atenolol and other diuretics, combinations
+atenolol	and	thiazides|1429804|BN|Atenolol and thiazides
+atenolol	bendroflumethiazide|153153|MIN|atenolol / bendroflumethiazide
+atenolol	chlorthalidone|151195|MIN|atenolol / chlorthalidone
+atenolol	chlorthalidone	hydralazine|1008198|MIN|atenolol / chlorthalidone / hydralazine
+atenolol	nifedipine|392475|MIN|atenolol / nifedipine
+atenolol	substance|1202|IN|atenolol
+atenolol	thiazides	and	other	diuretics|1429823|BN|Atenolol, thiazides and other diuretics
+atenolol 	and	bendroflumethiazide containing	product|153153|MIN|atenolol / bendroflumethiazide
+atenolol 	and	chlortalidone containing	product|151195|MIN|atenolol / chlorthalidone
+atenolol 	and	chlorthalidone containing	product|151195|MIN|atenolol / chlorthalidone
+atenolol 	and	nifedipine containing	product|392475|MIN|atenolol / nifedipine
+atenolol chlorthalidone|151195|MIN|atenolol / chlorthalidone
+atenolol containing	product|1202|IN|atenolol
+atenololum|1202|IN|atenolol
+atorvastatin	acetylsalicylic	acid	and	perindopril|1865213|MIN|Atorvastatin, acetylsalicylic acid and perindopril
+atorvastatin	acetylsalicylic	acid	and	ramipril|1598366|IN|Atorvastatin, acetylsalicylic acid and ramipril
+atorvastatin	amlodipine	and	candesartan|2631870|BN|Atorvastatin, amlodipine and candesartan
+atorvastatin	amlodipine	and	perindopril|1727487|BN|Atorvastatin, amlodipine and perindopril
+atorvastatin	amlodipine	and	ramipril|2473239|IN|Atorvastatin, amlodipine and ramipril
+atorvastatin	and	perindopril|1996258|BN|Atorvastatin and perindopril
+azilsart n	medoxomilo|1091642|PIN|azilsartan medoxomil
+azilsartan|1091643|IN|azilsartan
+azilsartan	chlorthalidone|1235143|MIN|azilsartan / chlorthalidone
+azilsartan	kamedoxomil|1294597|PIN|azilsartan kamedoxomil
+azilsartan	m doxomil|1091642|PIN|azilsartan medoxomil
+azilsartan	medoxomil|1091642|PIN|azilsartan medoxomil
+azilsartan	medoxomil	and	diuretics|1598367|IN|Azilsartan medoxomil and diuretics
+azilsartan	medoxomil	substance|1091642|PIN|azilsartan medoxomil
+azilsartan	substance|1091643|IN|azilsartan
+azilsartan chlorthalidone|1235143|MIN|azilsartan / chlorthalidone
+azilsartan containing	product|1091643|IN|azilsartan
+azilsartanum	medoxomilum|1091642|PIN|azilsartan medoxomil
+b naz pril|18867|IN|benazepril
+benazepril|18867|IN|benazepril
+benazepril	and	amlodipine|214223|MIN|amlodipine / benazepril
+benazepril	and	diuretics|1429752|BN|Benazepril and diuretics
+benazepril	hcl|235758|PIN|benazepril hydrochloride
+benazepril	hydrochloride|235758|PIN|benazepril hydrochloride
+benazepril	hydrochloride	substance|235758|PIN|benazepril hydrochloride
+benazepril	hydrochlorothiazide|214287|MIN|benazepril / hydrochlorothiazide
+benazepril	spironolactone|2566848|MIN|benazepril / spironolactone
+benazepril	substance|18867|IN|benazepril
+benazepril 	and	hydrochlorothiazide containing	product|214287|MIN|benazepril / hydrochlorothiazide
+benazepril containing	product|18867|IN|benazepril
+benazepril hydrochlorothiazide|214287|MIN|benazepril / hydrochlorothiazide
+benazeprilum|18867|IN|benazepril
+bendroflumethiazide	nadolol|214288|MIN|bendroflumethiazide / nadolol
+bendroflumethiazide	propranolol|645566|MIN|bendroflumethiazide / propranolol
+bendroflumethiazide	spironolactone|1008922|MIN|bendroflumethiazide / spironolactone
+bendroflumethiazide	timolol|645567|MIN|bendroflumethiazide / timolol
+bendroflumethiazide 	and	nadolol containing	product|214288|MIN|bendroflumethiazide / nadolol
+bendroflumethiazide 	and	propranolol containing	product|645566|MIN|bendroflumethiazide / propranolol
+bendroflumethiazide 	and	timolol containing	product|645567|MIN|bendroflumethiazide / timolol
+bendroflumethiazide nadolol|214288|MIN|bendroflumethiazide / nadolol
+beta propranolol|8787|IN|propranolol
+bexagliflozin|2627044|IN|bexagliflozin
+bisoprolol|19484|IN|bisoprolol
+bisoprolol	and	acetylsalicylic	acid|1865214|MIN|Bisoprolol and acetylsalicylic acid
+bisoprolol	and	amlodipine|1429795|BN|Bisoprolol and amlodipine
+bisoprolol	and	thiazides|1429961|IN|Bisoprolol and thiazides
+bisoprolol	fumarate|142146|PIN|bisoprolol fumarate
+bisoprolol	fumarate	substance|142146|PIN|bisoprolol fumarate
+bisoprolol	hydrochlorothiazide|214317|MIN|bisoprolol / hydrochlorothiazide
+bisoprolol	substance|19484|IN|bisoprolol
+bisoprolol 	and	hydrochlorothiazide containing	product|214317|MIN|bisoprolol / hydrochlorothiazide
+bisoprolol containing	product|19484|IN|bisoprolol
+bisoprolol hydrochlorothiazide|214317|MIN|bisoprolol / hydrochlorothiazide
+bisoprololum|19484|IN|bisoprolol
+brimonidine	tartrate timolol	maleate|1701280|IN|Brimonidine tartrate-timolol maleate
+brimonidine	timolol|597142|MIN|brimonidine / timolol
+brimonidine 	and	timolol containing	product|597142|MIN|brimonidine / timolol
+brimonidine dorzolamide latanoprost timolol	ophthalmic|2051536|IN|Brimonidine/dorzolamide/latanoprost/timolol ophthalmic
+brimonidine dorzolamide timolol	ophthalmic|2051538|IN|Brimonidine/dorzolamide/timolol ophthalmic
+brimonidine timolol|597142|MIN|brimonidine / timolol
+bumetanida|1808|IN|bumetanide
+bumetanide|1808|IN|bumetanide
+bumetanide	and	potassium|392534|MIN|bumetanide / potassium
+bumetanide	and	potassium sparing	agents|1429824|BN|Bumetanide and potassium-sparing agents
+bumetanide	novaplus|404908|BN|Bumetanide novaplus
+bumetanide	potassium|392534|MIN|bumetanide / potassium
+bumetanide	potassium	chloride|816562|MIN|bumetanide / potassium chloride
+bumetanide	substance|1808|IN|bumetanide
+bumetanide 	and	potassium	chloride containing	product|816562|MIN|bumetanide / potassium chloride
+bumetanide 	and	potassium containing	product|392534|MIN|bumetanide / potassium
+bumetanide containing	product|1808|IN|bumetanide
+bumetanidum|1808|IN|bumetanide
+buthiazide	spironolactone|814684|MIN|buthiazide / spironolactone
+canagliflozin|1373458|IN|canagliflozin
+canagliflozin	anhydrous|1546031|PIN|canagliflozin anhydrous
+canagliflozin	anhydrous	substance|1546031|PIN|canagliflozin anhydrous
+canagliflozin	metformin|1545149|MIN|canagliflozin / metformin
+canagliflozin	substance|1373458|IN|canagliflozin
+canagliflozin 	and	metformin containing	product|1545149|MIN|canagliflozin / metformin
+canagliflozin containing	product|1373458|IN|canagliflozin
+canagliflozin metformin|1545149|MIN|canagliflozin / metformin
+canagliflozina|1373458|IN|canagliflozin
+candesartan|214354|IN|candesartan
+candesartan	amlodipine	and	hydrochlorothiazide|2117284|BN|Candesartan, amlodipine and hydrochlorothiazide
+candesartan	and	amlodipine|1486425|MIN|Candesartan and amlodipine
+candesartan	and	diuretics|1429754|BN|Candesartan and diuretics
+candesartan	cilexetil|135481|PIN|candesartan cilexetil
+candesartan	cilexetil	substance|135481|PIN|candesartan cilexetil
+candesartan	cilexetil hydrochlorothiazide|392496|MIN|Candesartan cilexetil-hydrochlorothiazide
+candesartan	hydrochlorothiazide|284628|MIN|candesartan / hydrochlorothiazide
+candesartan	substance|214354|IN|candesartan
+candesartan containing	product|214354|IN|candesartan
+candesartan hydrochlorothiazide|284628|MIN|candesartan / hydrochlorothiazide
+captopril|1998|IN|captopril
+captopril	and	diuretics|106714|MIN|Captopril and diuretics
+captopril	hydrochlorothiazide|214357|MIN|captopril / hydrochlorothiazide
+captopril	substance|1998|IN|captopril
+captopril 	and	hydrochlorothiazide containing	product|214357|MIN|captopril / hydrochlorothiazide
+captopril containing	product|1998|IN|captopril
+captopril hydrochlorothiazide|214357|MIN|captopril / hydrochlorothiazide
+captoprilum|1998|IN|captopril
+carv dilol|20352|IN|carvedilol
+carvedilol|20352|IN|carvedilol
+carvedilol	and	ivabradine|1865216|MIN|Carvedilol and ivabradine
+carvedilol	phosphate|668310|PIN|carvedilol phosphate
+carvedilol	phosphate	substance|668310|PIN|carvedilol phosphate
+carvedilol	substance|20352|IN|carvedilol
+carvedilol containing	product|20352|IN|carvedilol
+carvedilolum|20352|IN|carvedilol
+chlorthalidone	hydralazine	oxprenolol|1007952|MIN|chlorthalidone / hydralazine / oxprenolol
+cilazapril|21102|IN|cilazapril
+cilazapril	and	diuretics|1429755|BN|Cilazapril and diuretics
+cilazapril	hydrochlorothiazide|817588|MIN|cilazapril / hydrochlorothiazide
+cilazapril	substance|21102|IN|cilazapril
+cilazapril containing	product|21102|IN|cilazapril
+cilazaprilum|21102|IN|cilazapril
+clopamide	pindolol|392512|MIN|clopamide / pindolol
+clopamide 	and	pindolol containing	product|392512|MIN|clopamide / pindolol
+d 2 methyl 3 mercaptopropanoyl l proline|1998|IN|captopril
+d 3 mercapto 2 methylpropanoyl l proline|1998|IN|captopril
+d glucitol	1 5 anhydro 1 c 4 chloro 3 4 2 cyclopropyloxyethoxyphenylmethylphenyl 	1s|2627044|IN|bexagliflozin
+d isosorbide	dinitrate|6058|IN|isosorbide dinitrate
+dapagliflozin|1488564|IN|dapagliflozin
+dapagliflozin	as	propanediol|1486966|PIN|dapagliflozin propanediol
+dapagliflozin	metformin|1486436|MIN|dapagliflozin / metformin
+dapagliflozin	metformin	saxagliptin|2117292|MIN|dapagliflozin / metformin / saxagliptin
+dapagliflozin	propanediol|1486966|PIN|dapagliflozin propanediol
+dapagliflozin	propanediol	substance|1486966|PIN|dapagliflozin propanediol
+dapagliflozin	saxagliptin|1727500|MIN|dapagliflozin / saxagliptin
+dapagliflozin	substance|1488564|IN|dapagliflozin
+dapagliflozin containing	product|1488564|IN|dapagliflozin
+dapagliflozin metformin|1486436|MIN|dapagliflozin / metformin
+dapagliflozin saxagliptin|1727500|MIN|dapagliflozin / saxagliptin
+dapagliflozina|1488564|IN|dapagliflozin
+delapril|22434|IN|Delapril
+delapril	and	diuretics|1429757|BN|Delapril and diuretics
+delapril	and	manidipine|1430985|MIN|Delapril and manidipine
+delapril	hcl|1877424|BN|Delapril hcl
+dianhydrosorbitol	2 5 dinitrate|6058|IN|isosorbide dinitrate
+dihydralazine	propranolol|1007484|MIN|dihydralazine / propranolol
+diltiazem	enalapril|214507|MIN|diltiazem / enalapril
+diltiazem 	and	enalapril containing	product|214507|MIN|diltiazem / enalapril
+diltiazem enalapril|214507|MIN|diltiazem / enalapril
+dinitrate	d isosorbide|6058|IN|isosorbide dinitrate
+dinitrato	de	isosorbida|6058|IN|isosorbide dinitrate
+dinitroisosorbide|6058|IN|isosorbide dinitrate
+dinitrosorbide|6058|IN|isosorbide dinitrate
+dorzolamide	hydrochloride timolol	maleate|813065|PIN|Dorzolamide hydrochloride-timolol maleate
+dorzolamide	timolol|662263|MIN|dorzolamide / timolol
+dorzolamide 	and	timolol containing	product|662263|MIN|dorzolamide / timolol
+dorzolamide latanoprost timolol	ophthalmic|2052139|IN|Dorzolamide/latanoprost/timolol ophthalmic
+dorzolamide timolol|662263|MIN|dorzolamide / timolol
+dorzolamide timolol	ophthalmic	preservative free|2052138|IN|Dorzolamide-timolol ophthalmic, preservative-free
+e 2 butyl 1 4 carboxyphenylmethyl 1h imidazole 5 ylmethylene 2 thiopheneproprionic	acid|83515|IN|eprosartan
+e 2 butyl 1 p carboxybenzyl 2 thenylimidazole 5 acrylic	acid|83515|IN|eprosartan
+e 3 2 n butyl 1 4 carboxyphenylmethyl 1h imidazol 5 yl 2 2 thienylmethyl 2 propenoic	acid|83515|IN|eprosartan
+empagliflozin|1545653|IN|empagliflozin
+empagliflozin	linagliptin|1598392|MIN|empagliflozin / linagliptin
+empagliflozin	linagliptin	metformin|2281864|MIN|empagliflozin / linagliptin / metformin
+empagliflozin	metformin|1664314|MIN|empagliflozin / metformin
+empagliflozin	substance|1545653|IN|empagliflozin
+empagliflozin 	and	linagliptin containing	product|1598392|MIN|empagliflozin / linagliptin
+empagliflozin 	and	metformin containing	product|1664314|MIN|empagliflozin / metformin
+empagliflozin containing	product|1545653|IN|empagliflozin
+empagliflozin linagliptin|1598392|MIN|empagliflozin / linagliptin
+empagliflozin linagliptin metformin|2281864|MIN|empagliflozin / linagliptin / metformin
+empagliflozin metformin|1664314|MIN|empagliflozin / metformin
+empagliflozina|1545653|IN|empagliflozin
+empagliflozine|1545653|IN|empagliflozin
+empagliflozinum|1545653|IN|empagliflozin
+enalapril|3827|IN|enalapril
+enalapril	and	diuretics|1429760|BN|Enalapril and diuretics
+enalapril	and	lercanidipine|1430994|MIN|Enalapril and lercanidipine
+enalapril	and	nitrendipine|1430995|MIN|Enalapril and nitrendipine
+enalapril	felodipine|214535|MIN|enalapril / felodipine
+enalapril	hydrochlorothiazide|214536|MIN|enalapril / hydrochlorothiazide
+enalapril	maleate|203123|PIN|enalapril maleate
+enalapril	maleate	substance|203123|PIN|enalapril maleate
+enalapril	sodium|749224|BN|Enalapril sodium
+enalapril	substance|3827|IN|enalapril
+enalapril 	and	felodipine containing	product|214535|MIN|enalapril / felodipine
+enalapril 	and	hydrochlorothiazide containing	product|214536|MIN|enalapril / hydrochlorothiazide
+enalapril containing	product|3827|IN|enalapril
+enalapril felodipine|214535|MIN|enalapril / felodipine
+enalapril hydrochlorothiazide|214536|MIN|enalapril / hydrochlorothiazide
+enalaprila|3827|IN|enalapril
+enalaprilum|3827|IN|enalapril
+eplerenona|298869|IN|eplerenone
+eplerenone|298869|IN|eplerenone
+eplerenone	substance|298869|IN|eplerenone
+eplerenone containing	product|298869|IN|eplerenone
+eprosartan|83515|IN|eprosartan
+eprosartan	and	diuretics|1429761|BN|Eprosartan and diuretics
+eprosartan	hydrochlorothiazide|352375|MIN|eprosartan / hydrochlorothiazide
+eprosartan	mesilate|236878|PIN|eprosartan mesylate
+eprosartan	mesilate	substance|236878|PIN|eprosartan mesylate
+eprosartan	mesylate|236878|PIN|eprosartan mesylate
+eprosartan	substance|83515|IN|eprosartan
+eprosartan 	and	hydrochlorothiazide containing	product|352375|MIN|eprosartan / hydrochlorothiazide
+eprosartan containing	product|83515|IN|eprosartan
+eprosartan hydrochlorothiazide|352375|MIN|eprosartan / hydrochlorothiazide
+eprosartanum|83515|IN|eprosartan
+ertugliflozin|1992672|IN|ertugliflozin
+ertugliflozin	as	l pyroglutamic	acid|1999600|BN|Ertugliflozin (as l-pyroglutamic acid)
+ertugliflozin	metformin|1992684|MIN|ertugliflozin / metformin
+ertugliflozin	pidolate|1992674|PIN|ertugliflozin pidolate
+ertugliflozin	pidolate	substance|1992674|PIN|ertugliflozin pidolate
+ertugliflozin	sitagliptin|1992825|MIN|ertugliflozin / sitagliptin
+ertugliflozin	substance|1992672|IN|ertugliflozin
+ertugliflozin containing	product|1992672|IN|ertugliflozin
+ertugliflozin metformin|1992684|MIN|ertugliflozin / metformin
+ertugliflozin sitagliptin|1992825|MIN|ertugliflozin / sitagliptin
+espirapril|36908|IN|spirapril
+espironolactona|9997|IN|spironolactone
+felodipine	ramipril|389179|MIN|felodipine / ramipril
+felodipine 	and	ramipril containing	product|389179|MIN|felodipine / ramipril
+fosenopril|50166|IN|fosinopril
+fosinopril|50166|IN|fosinopril
+fosinopril	and	diuretics|1429762|BN|Fosinopril and diuretics
+fosinopril	hydrochlorothiazide|261415|MIN|fosinopril / hydrochlorothiazide
+fosinopril	sodium|227278|PIN|fosinopril sodium
+fosinopril	sodium	substance|227278|PIN|fosinopril sodium
+fosinopril	substance|50166|IN|fosinopril
+fosinopril 	and	hydrochlorothiazide containing	product|261415|MIN|fosinopril / hydrochlorothiazide
+fosinopril containing	product|50166|IN|fosinopril
+fosinopril hydrochlorothiazide|261415|MIN|fosinopril / hydrochlorothiazide
+frusemide|4603|IN|furosemide
+furosemid|4603|IN|furosemide
+furosemida|4603|IN|furosemide
+furosemide|4603|IN|furosemide
+furosemide	and	potassium|392464|MIN|furosemide / potassium
+furosemide	and	potassium sparing	agents|1429841|BN|Furosemide and potassium-sparing agents
+furosemide	ethanolamine|2102721|BN|Furosemide ethanolamine
+furosemide	penbutolol|1008347|MIN|furosemide / penbutolol
+furosemide	potassium|392464|MIN|furosemide / potassium
+furosemide	potassium	chloride|608054|MIN|furosemide / potassium chloride
+furosemide	spironolactone|392462|MIN|furosemide / spironolactone
+furosemide	substance|4603|IN|furosemide
+furosemide	triamterene|392570|MIN|furosemide / triamterene
+furosemide 	and	potassium	chloride containing	product|608054|MIN|furosemide / potassium chloride
+furosemide 	and	potassium containing	product|392464|MIN|furosemide / potassium
+furosemide 	and	spironolactone containing	product|392462|MIN|furosemide / spironolactone
+furosemide 	and	triamterene containing	product|392570|MIN|furosemide / triamterene
+furosemide containing	product|4603|IN|furosemide
+furosemidu|4603|IN|furosemide
+furosemidum|4603|IN|furosemide
+hidralazina|5470|IN|hydralazine
+hydralazin|5470|IN|hydralazine
+hydralazine|5470|IN|hydralazine
+hydralazine	and	diuretics|1429764|BN|Hydralazine and diuretics
+hydralazine	hcl|82027|PIN|hydralazine hydrochloride
+hydralazine	hcl hydrochlorothiazide|217595|BN|Hydralazine hcl-hydrochlorothiazide
+hydralazine	hcl hydrochlorothiazide reserpine|852100|IN|Hydralazine hcl/hydrochlorothiazide/reserpine
+hydralazine	hydrochloride|82027|PIN|hydralazine hydrochloride
+hydralazine	hydrochloride	and	isosorbide	dinitrate|2602556|BN|Hydralazine hydrochloride and isosorbide dinitrate
+hydralazine	hydrochloride	novaplus|852101|IN|Hydralazine hydrochloride novaplus
+hydralazine	hydrochloride	substance|82027|PIN|hydralazine hydrochloride
+hydralazine	hydrochlorothiazide|214615|MIN|hydralazine / hydrochlorothiazide
+hydralazine	hydrochlorothiazide	metoprolol|1009139|MIN|hydralazine / hydrochlorothiazide / metoprolol
+hydralazine	hydrochlorothiazide	reserpine|214616|MIN|hydralazine / hydrochlorothiazide / reserpine
+hydralazine	isosorbide	dinitrate|608424|MIN|hydralazine / isosorbide dinitrate
+hydralazine	plus|217597|BN|Hydralazine Plus
+hydralazine	reserpine|689714|MIN|hydralazine / reserpine
+hydralazine	substance|5470|IN|hydralazine
+hydralazine 	and	hydrochlorothiazide 	and	reserpine containing	product|214616|MIN|hydralazine / hydrochlorothiazide / reserpine
+hydralazine 	and	hydrochlorothiazide containing	product|214615|MIN|hydralazine / hydrochlorothiazide
+hydralazine 	and	isosorbide	dinitrate containing	product|608424|MIN|hydralazine / isosorbide dinitrate
+hydralazine containing	product|5470|IN|hydralazine
+hydralazine hydrochlorothiazide|214615|MIN|hydralazine / hydrochlorothiazide
+hydralazine hydrochlorothiazide reserpine|214616|MIN|hydralazine / hydrochlorothiazide / reserpine
+hydralazine isosorbide|689713|MIN|Hydralazine/isosorbide
+hydralazine isosorbide	dinitrate|608424|MIN|hydralazine / isosorbide dinitrate
+hydralazine reserpine|689714|MIN|hydralazine / reserpine
+hydralazinum|5470|IN|hydralazine
+hydrallazine|5470|IN|hydralazine
+hydrazinophthalazine|5470|IN|hydralazine
+hydrazone	12h phthalazinone|5470|IN|hydralazine
+hydrochlorothiazide	irbesartan|214617|MIN|hydrochlorothiazide / irbesartan
+hydrochlorothiazide	labetalol|689716|MIN|hydrochlorothiazide / labetalol
+hydrochlorothiazide	lisinopril|214618|MIN|hydrochlorothiazide / lisinopril
+hydrochlorothiazide	losartan|214619|MIN|hydrochlorothiazide / losartan
+hydrochlorothiazide	moexipril|214622|MIN|hydrochlorothiazide / moexipril
+hydrochlorothiazide	olmesartan|817496|MIN|hydrochlorothiazide / olmesartan
+hydrochlorothiazide	pindolol|1007360|MIN|hydrochlorothiazide / pindolol
+hydrochlorothiazide	propranolol|214623|MIN|hydrochlorothiazide / propranolol
+hydrochlorothiazide	quinapril|261417|MIN|hydrochlorothiazide / quinapril
+hydrochlorothiazide	ramipril|818284|MIN|hydrochlorothiazide / ramipril
+hydrochlorothiazide	sotalol|1006894|MIN|hydrochlorothiazide / sotalol
+hydrochlorothiazide	spironolactone|324042|MIN|hydrochlorothiazide / spironolactone
+hydrochlorothiazide	telmisartan|284636|MIN|hydrochlorothiazide / telmisartan
+hydrochlorothiazide	timolol|214625|MIN|hydrochlorothiazide / timolol
+hydrochlorothiazide	valsartan|214626|MIN|hydrochlorothiazide / valsartan
+hydrochlorothiazide 	and	irbesartan containing	product|214617|MIN|hydrochlorothiazide / irbesartan
+hydrochlorothiazide 	and	labetalol containing	product|689716|MIN|hydrochlorothiazide / labetalol
+hydrochlorothiazide 	and	lisinopril containing	product|214618|MIN|hydrochlorothiazide / lisinopril
+hydrochlorothiazide 	and	losartan containing	product|214619|MIN|hydrochlorothiazide / losartan
+hydrochlorothiazide 	and	moexipril containing	product|214622|MIN|hydrochlorothiazide / moexipril
+hydrochlorothiazide 	and	olmesartan containing	product|817496|MIN|hydrochlorothiazide / olmesartan
+hydrochlorothiazide 	and	propranolol containing	product|214623|MIN|hydrochlorothiazide / propranolol
+hydrochlorothiazide 	and	quinapril containing	product|261417|MIN|hydrochlorothiazide / quinapril
+hydrochlorothiazide 	and	spironolactone containing	product|324042|MIN|hydrochlorothiazide / spironolactone
+hydrochlorothiazide 	and	telmisartan containing	product|284636|MIN|hydrochlorothiazide / telmisartan
+hydrochlorothiazide 	and	timolol containing	product|214625|MIN|hydrochlorothiazide / timolol
+hydrochlorothiazide 	and	valsartan containing	product|214626|MIN|hydrochlorothiazide / valsartan
+hydrochlorothiazide irbesartan|214617|MIN|hydrochlorothiazide / irbesartan
+hydrochlorothiazide labetalol|689716|MIN|hydrochlorothiazide / labetalol
+hydrochlorothiazide lisinopril|214618|MIN|hydrochlorothiazide / lisinopril
+hydrochlorothiazide losartan|214619|MIN|hydrochlorothiazide / losartan
+hydrochlorothiazide moexipril|214622|MIN|hydrochlorothiazide / moexipril
+hydrochlorothiazide moexipril	hydrochloride|214622|MIN|hydrochlorothiazide / moexipril
+hydrochlorothiazide olmesartan|817496|MIN|hydrochlorothiazide / olmesartan
+hydrochlorothiazide olmesartan	medoxomil|1864248|IN|Hydrochlorothiazide-olmesartan medoxomil
+hydrochlorothiazide propranolol|214623|MIN|hydrochlorothiazide / propranolol
+hydrochlorothiazide quinapril|261417|MIN|hydrochlorothiazide / quinapril
+hydrochlorothiazide quinapril	hydrochloride|392468|MIN|Hydrochlorothiazide-quinapril hydrochloride
+hydrochlorothiazide spironolactone|324042|MIN|hydrochlorothiazide / spironolactone
+hydrochlorothiazide telmisartan|284636|MIN|hydrochlorothiazide / telmisartan
+hydrochlorothiazide timolol|214625|MIN|hydrochlorothiazide / timolol
+hydrochlorothiazide valsartan|214626|MIN|hydrochlorothiazide / valsartan
+hydroflumethiazide	spironolactone|151194|MIN|hydroflumethiazide / spironolactone
+hydroflumethiazide 	and	spironolactone containing	product|151194|MIN|hydroflumethiazide / spironolactone
+hydroxyzine	labetalol|1007878|MIN|hydroxyzine / labetalol
+hypophthalin|5470|IN|hydralazine
+ibidomide	hydrochloride|202693|PIN|labetalol hydrochloride
+idralazina|5470|IN|hydralazine
+imidapril|60245|IN|imidapril
+imidapril	hcl|259335|PIN|imidapril hydrochloride
+imidapril	hydrochloride|259335|PIN|imidapril hydrochloride
+imidapril	hydrochloride	substance|259335|PIN|imidapril hydrochloride
+imidapril	substance|60245|IN|imidapril
+imidapril containing	product|60245|IN|imidapril
+indapamide	perindopril|388499|MIN|indapamide / perindopril
+indapamide 	and	perindopril containing	product|388499|MIN|indapamide / perindopril
+irbesartan|83818|IN|irbesartan
+irbesartan	amlodipine	and	hydrochlorothiazide|2273284|BN|Irbesartan, amlodipine and hydrochlorothiazide
+irbesartan	and	amlodipine|1431012|MIN|Irbesartan and amlodipine
+irbesartan	and	diuretics|1429765|BN|Irbesartan and diuretics
+irbesartan	substance|83818|IN|irbesartan
+irbesartan containing	product|83818|IN|irbesartan
+isdn|6058|IN|isosorbide dinitrate
+isosorbide	2 5 dinitrate|6058|IN|isosorbide dinitrate
+isosorbide	dinitrate|6058|IN|isosorbide dinitrate
+isosorbide	dinitrate	combinations|1429715|BN|Isosorbide dinitrate, combinations
+isosorbide	dinitrate	extended	release|723638|BN|Isosorbide dinitrate extended release
+isosorbide	dinitrate	substance|6058|IN|isosorbide dinitrate
+isosorbide	dinitrate	verapamil|1007711|MIN|isosorbide dinitrate / verapamil
+isosorbide	dinitrate containing	product|6058|IN|isosorbide dinitrate
+isosorbidi	dinitras|6058|IN|isosorbide dinitrate
+ivabradin|1649480|IN|ivabradine
+ivabradina|1649480|IN|ivabradine
+ivabradine|1649480|IN|ivabradine
+ivabradine	as	hydrochloride|1649479|PIN|ivabradine hydrochloride
+ivabradine	hcl|1649479|PIN|ivabradine hydrochloride
+ivabradine	hydrochloride|1649479|PIN|ivabradine hydrochloride
+ivabradine	hydrochloride	substance|1649479|PIN|ivabradine hydrochloride
+ivabradine	oxalate|2566927|BN|Ivabradine oxalate
+ivabradine	substance|1649480|IN|ivabradine
+ivabradine containing	product|1649480|IN|ivabradine
+ivabradinum|1649480|IN|ivabradine
+l captopril|1998|IN|captopril
+l idopyranose	1 6 anhydro 1 c 4 chloro 3 4 ethoxyphenylmethylphenyl 5 c hydroxymethyl|1992672|IN|ertugliflozin
+lab talol|6185|IN|labetalol
+labetalol|6185|IN|labetalol
+labetalol	and	other	diuretics|1429852|BN|Labetalol and other diuretics
+labetalol	and	thiazides|1431017|MIN|Labetalol and thiazides
+labetalol	hcl|202693|PIN|labetalol hydrochloride
+labetalol	hydrochloride|202693|PIN|labetalol hydrochloride
+labetalol	hydrochloride	preservative	free|2268941|IN|Labetalol hydrochloride, preservative free
+labetalol	hydrochloride	substance|202693|PIN|labetalol hydrochloride
+labetalol	substance|6185|IN|labetalol
+labetalol containing	product|6185|IN|labetalol
+labetalolum|6185|IN|labetalol
+labetolol|6185|IN|labetalol
+latanoprost	timolol|388053|MIN|latanoprost / timolol
+latanoprost 	and	timolol containing	product|388053|MIN|latanoprost / timolol
+latanoprost timolol	ophthalmic	preservative free|2052459|IN|Latanoprost-timolol ophthalmic, preservative-free
+linagliptin	and	empagliflozin|1598392|MIN|empagliflozin / linagliptin
+lisinopril|29046|IN|lisinopril
+lisinopril	and	amlodipine|1430958|MIN|Lisinopril and amlodipine
+lisinopril	and	diuretics|1458453|IN|Lisinopril and diuretics
+lisinopril	anhydrous|1546022|PIN|lisinopril anhydrous
+lisinopril	anhydrous	substance|1546022|PIN|lisinopril anhydrous
+lisinopril	as	dihydrate|2390314|IN|Lisinopril (as dihydrate)
+lisinopril	substance|29046|IN|lisinopril
+lisinopril containing	product|29046|IN|lisinopril
+lisinoprilum|29046|IN|lisinopril
+losartan|52175|IN|losartan
+losartan	and	amlodipine|1431020|MIN|Losartan and amlodipine
+losartan	and	diuretics|1429767|BN|Losartan and diuretics
+losartan	potassium|203160|PIN|losartan potassium
+losartan	potassium	substance|203160|PIN|losartan potassium
+losartan	substance|52175|IN|losartan
+losartan containing	product|52175|IN|losartan
+m tolazone|6916|IN|metolazone
+metformin	and	canagliflozin|1545149|MIN|canagliflozin / metformin
+metformin	and	dapagliflozin|1486436|MIN|dapagliflozin / metformin
+metformin	and	empagliflozin|1664314|MIN|empagliflozin / metformin
+metformin	and	ertugliflozin|1992684|MIN|ertugliflozin / metformin
+metformin	linagliptin	and	empagliflozin|2281864|MIN|empagliflozin / linagliptin / metformin
+metformin	saxagliptin	and	dapagliflozin|2117292|MIN|dapagliflozin / metformin / saxagliptin
+metolazon|6916|IN|metolazone
+metolazona|6916|IN|metolazone
+metolazone|6916|IN|metolazone
+metolazone	and	potassium sparing	agents|1429860|BN|Metolazone and potassium-sparing agents
+metolazone	substance|6916|IN|metolazone
+metolazone	triamterene|1008208|MIN|metolazone / triamterene
+metolazone containing	product|6916|IN|metolazone
+metolazonum|6916|IN|metolazone
+metoprolol	and	ivabradine|1865231|MIN|Metoprolol and ivabradine
+metoprolol	succinate|221124|PIN|metoprolol succinate
+metoprolol	succinate	er|688099|BN|Metoprolol succinate er
+metoprolol	succinate	substance|221124|PIN|metoprolol succinate
+moexipril|30131|IN|moexipril
+moexipril	and	diuretics|1429770|BN|Moexipril and diuretics
+moexipril	hcl|236066|PIN|moexipril hydrochloride
+moexipril	hydrochloride|236066|PIN|moexipril hydrochloride
+moexipril	hydrochloride	substance|236066|PIN|moexipril hydrochloride
+moexipril	substance|30131|IN|moexipril
+moexipril containing	product|30131|IN|moexipril
+moexiprilum|30131|IN|moexipril
+n 1 methylethylaminocarbonyl 4 3 methylphenylamino 3 pyridinesulfonamide|38413|IN|torsemide
+n 3 acetyl 4 2 hydroxy 3 1 methylethylaminopropoxyphenylbutanamide|149|IN|acebutolol
+n 3 acetyl 4 2 hydroxy 3 isopropylaminopropoxyphenylbutanamide|149|IN|acebutolol
+n p o 1h tetrazol 5 ylphenylbenzyl n valeryl l valine|69749|IN|valsartan
+n pentanoyl n 2 1h tetrazol 5 ylbiphenyl 4 ylmethyl l valine|69749|IN|valsartan
+n2 s 1 carboxy 3 phenylpropyl l lysyl l proline|29046|IN|lisinopril
+nadolol|7226|IN|nadolol
+nadolol	and	thiazides|1431033|MIN|Nadolol and thiazides
+nadolol	substance|7226|IN|nadolol
+nadolol containing	product|7226|IN|nadolol
+nalapril|3827|IN|enalapril
+narbivolol|31555|IN|nebivolol
+nebivolol|31555|IN|nebivolol
+nebivolol	and	amlodipine|1598398|MIN|Nebivolol and amlodipine
+nebivolol	and	thiazides|1431034|MIN|Nebivolol and thiazides
+nebivolol	as	hydrochloride|236883|PIN|nebivolol hydrochloride
+nebivolol	hcl|236883|PIN|nebivolol hydrochloride
+nebivolol	hydrochloride|236883|PIN|nebivolol hydrochloride
+nebivolol	hydrochloride	substance|236883|PIN|nebivolol hydrochloride
+nebivolol	substance|31555|IN|nebivolol
+nebivolol	valsartan|1798280|MIN|nebivolol / valsartan
+nebivolol containing	product|31555|IN|nebivolol
+nebivolol valsartan|1798280|MIN|nebivolol / valsartan
+nebivololum|31555|IN|nebivolol
+olmesartan|321064|IN|olmesartan
+olmesartan	medoxomil|118463|PIN|olmesartan medoxomil
+olmesartan	medoxomil	amlodipine	and	hydrochlorothiazide|1088907|BN|Olmesartan medoxomil, amlodipine and hydrochlorothiazide
+olmesartan	medoxomil	and	amlodipine|1431039|MIN|Olmesartan medoxomil and amlodipine
+olmesartan	medoxomil	and	diuretics|1429773|BN|Olmesartan medoxomil and diuretics
+olmesartan	medoxomil	substance|118463|PIN|olmesartan medoxomil
+olmesartan	substance|321064|IN|olmesartan
+olmesartan containing	product|321064|IN|olmesartan
+pentaerythritol	propranolol|1007476|MIN|pentaerythritol / propranolol
+perindopril|54552|IN|perindopril
+perindopril	amlodipine	and	indapamide|1486439|MIN|Perindopril, amlodipine and indapamide
+perindopril	and	amlodipine|1033889|MIN|amlodipine / perindopril
+perindopril	and	bisoprolol|1727497|MIN|Perindopril and bisoprolol
+perindopril	and	diuretics|1429749|BN|Perindopril and diuretics
+perindopril	arginine|1600711|PIN|perindopril arginine
+perindopril	arginine	substance|1600711|PIN|perindopril arginine
+perindopril	bisoprolol	and	amlodipine|2273288|BN|Perindopril, bisoprolol and amlodipine
+perindopril	erbumine|72260|PIN|perindopril erbumine
+perindopril	erbumine	substance|72260|PIN|perindopril erbumine
+perindopril	substance|54552|IN|perindopril
+perindopril	tert butylamine|72260|PIN|perindopril erbumine
+perindopril containing	product|54552|IN|perindopril
+perindoprilum|54552|IN|perindopril
+phthalazin 1 ylhydrazine|5470|IN|hydralazine
+pilocarpine	timolol|812232|MIN|pilocarpine / timolol
+pindolol|8332|IN|pindolol
+pindolol	and	other	diuretics|1429746|BN|Pindolol and other diuretics
+pindolol	substance|8332|IN|pindolol
+pindolol containing	product|8332|IN|pindolol
+pindololum|8332|IN|pindolol
+piretanide	ramipril|1006994|MIN|piretanide / ramipril
+prinodolol|8332|IN|pindolol
+product	containing	acebutolol	and	hydrochlorothiazide	medicinal	product|392564|MIN|acebutolol / hydrochlorothiazide
+product	containing	acebutolol	medicinal	product|149|IN|acebutolol
+product	containing	aliskiren	and	valsartan	medicinal	product|900937|MIN|aliskiren / valsartan
+product	containing	amiloride	and	atenolol	and	hydrochlorothiazide	medicinal	product|153154|MIN|amiloride / atenolol / hydrochlorothiazide
+product	containing	amiloride	and	bumetanide	medicinal	product|645371|MIN|amiloride / bumetanide
+product	containing	amiloride	and	furosemide	medicinal	product|818351|MIN|amiloride / furosemide
+product	containing	amiloride	and	hydrochlorothiazide	and	timolol	medicinal	product|812786|MIN|amiloride / hydrochlorothiazide / timolol
+product	containing	amlodipine	and	benazepril	medicinal	product|214223|MIN|amlodipine / benazepril
+product	containing	amlodipine	and	hydrochlorothiazide	and	olmesartan	medicinal	product|1008801|MIN|amlodipine / hydrochlorothiazide / olmesartan
+product	containing	amlodipine	and	hydrochlorothiazide	and	valsartan	medicinal	product|852897|MIN|amlodipine / hydrochlorothiazide / valsartan
+product	containing	amlodipine	and	olmesartan	medicinal	product|1009015|MIN|amlodipine / olmesartan
+product	containing	amlodipine	and	perindopril	medicinal	product|1033889|MIN|amlodipine / perindopril
+product	containing	amlodipine	and	telmisartan	medicinal	product|901212|MIN|amlodipine / telmisartan
+product	containing	amlodipine	and	valsartan	medicinal	product|729455|MIN|amlodipine / valsartan
+product	containing	atenolol	and	bendroflumethiazide	medicinal	product|153153|MIN|atenolol / bendroflumethiazide
+product	containing	atenolol	and	chlortalidone	medicinal	product|151195|MIN|atenolol / chlorthalidone
+product	containing	atenolol	and	nifedipine	medicinal	product|392475|MIN|atenolol / nifedipine
+product	containing	atenolol	medicinal	product|1202|IN|atenolol
+product	containing	azilsartan	medicinal	product|1091643|IN|azilsartan
+product	containing	benazepril	and	hydrochlorothiazide	medicinal	product|214287|MIN|benazepril / hydrochlorothiazide
+product	containing	benazepril	medicinal	product|18867|IN|benazepril
+product	containing	bendroflumethiazide	and	nadolol	medicinal	product|214288|MIN|bendroflumethiazide / nadolol
+product	containing	bendroflumethiazide	and	propranolol	medicinal	product|645566|MIN|bendroflumethiazide / propranolol
+product	containing	bendroflumethiazide	and	timolol	medicinal	product|645567|MIN|bendroflumethiazide / timolol
+product	containing	bisoprolol	and	hydrochlorothiazide	medicinal	product|214317|MIN|bisoprolol / hydrochlorothiazide
+product	containing	bisoprolol	medicinal	product|19484|IN|bisoprolol
+product	containing	brimonidine	and	timolol	medicinal	product|597142|MIN|brimonidine / timolol
+product	containing	bumetanide	and	potassium	chloride	medicinal	product|816562|MIN|bumetanide / potassium chloride
+product	containing	bumetanide	and	potassium	medicinal	product|392534|MIN|bumetanide / potassium
+product	containing	bumetanide	medicinal	product|1808|IN|bumetanide
+product	containing	canagliflozin	and	metformin	medicinal	product|1545149|MIN|canagliflozin / metformin
+product	containing	canagliflozin	medicinal	product|1373458|IN|canagliflozin
+product	containing	candesartan	medicinal	product|214354|IN|candesartan
+product	containing	captopril	and	hydrochlorothiazide	medicinal	product|214357|MIN|captopril / hydrochlorothiazide
+product	containing	captopril	medicinal	product|1998|IN|captopril
+product	containing	carvedilol	medicinal	product|20352|IN|carvedilol
+product	containing	cilazapril	medicinal	product|21102|IN|cilazapril
+product	containing	clopamide	and	pindolol	medicinal	product|392512|MIN|clopamide / pindolol
+product	containing	dapagliflozin	medicinal	product|1488564|IN|dapagliflozin
+product	containing	diltiazem	and	enalapril	medicinal	product|214507|MIN|diltiazem / enalapril
+product	containing	dorzolamide	and	timolol	medicinal	product|662263|MIN|dorzolamide / timolol
+product	containing	empagliflozin	and	linagliptin	medicinal	product|1598392|MIN|empagliflozin / linagliptin
+product	containing	empagliflozin	and	metformin	medicinal	product|1664314|MIN|empagliflozin / metformin
+product	containing	empagliflozin	medicinal	product|1545653|IN|empagliflozin
+product	containing	enalapril	and	felodipine	medicinal	product|214535|MIN|enalapril / felodipine
+product	containing	enalapril	and	hydrochlorothiazide	medicinal	product|214536|MIN|enalapril / hydrochlorothiazide
+product	containing	enalapril	medicinal	product|3827|IN|enalapril
+product	containing	eplerenone	medicinal	product|298869|IN|eplerenone
+product	containing	eprosartan	and	hydrochlorothiazide	medicinal	product|352375|MIN|eprosartan / hydrochlorothiazide
+product	containing	eprosartan	medicinal	product|83515|IN|eprosartan
+product	containing	ertugliflozin	medicinal	product|1992672|IN|ertugliflozin
+product	containing	felodipine	and	ramipril	medicinal	product|389179|MIN|felodipine / ramipril
+product	containing	fosinopril	and	hydrochlorothiazide	medicinal	product|261415|MIN|fosinopril / hydrochlorothiazide
+product	containing	fosinopril	medicinal	product|50166|IN|fosinopril
+product	containing	furosemide	and	potassium	chloride	medicinal	product|608054|MIN|furosemide / potassium chloride
+product	containing	furosemide	and	potassium	medicinal	product|392464|MIN|furosemide / potassium
+product	containing	furosemide	and	spironolactone	medicinal	product|392462|MIN|furosemide / spironolactone
+product	containing	furosemide	and	triamterene	medicinal	product|392570|MIN|furosemide / triamterene
+product	containing	furosemide	medicinal	product|4603|IN|furosemide
+product	containing	hydralazine	and	hydrochlorothiazide	and	reserpine	medicinal	product|214616|MIN|hydralazine / hydrochlorothiazide / reserpine
+product	containing	hydralazine	and	hydrochlorothiazide	medicinal	product|214615|MIN|hydralazine / hydrochlorothiazide
+product	containing	hydralazine	and	isosorbide	dinitrate	medicinal	product|608424|MIN|hydralazine / isosorbide dinitrate
+product	containing	hydralazine	medicinal	product|5470|IN|hydralazine
+product	containing	hydrochlorothiazide	and	irbesartan	medicinal	product|214617|MIN|hydrochlorothiazide / irbesartan
+product	containing	hydrochlorothiazide	and	labetalol	medicinal	product|689716|MIN|hydrochlorothiazide / labetalol
+product	containing	hydrochlorothiazide	and	lisinopril	medicinal	product|214618|MIN|hydrochlorothiazide / lisinopril
+product	containing	hydrochlorothiazide	and	losartan	medicinal	product|214619|MIN|hydrochlorothiazide / losartan
+product	containing	hydrochlorothiazide	and	moexipril	medicinal	product|214622|MIN|hydrochlorothiazide / moexipril
+product	containing	hydrochlorothiazide	and	olmesartan	medicinal	product|817496|MIN|hydrochlorothiazide / olmesartan
+product	containing	hydrochlorothiazide	and	propranolol	medicinal	product|214623|MIN|hydrochlorothiazide / propranolol
+product	containing	hydrochlorothiazide	and	quinapril	medicinal	product|261417|MIN|hydrochlorothiazide / quinapril
+product	containing	hydrochlorothiazide	and	spironolactone	medicinal	product|324042|MIN|hydrochlorothiazide / spironolactone
+product	containing	hydrochlorothiazide	and	telmisartan	medicinal	product|284636|MIN|hydrochlorothiazide / telmisartan
+product	containing	hydrochlorothiazide	and	timolol	medicinal	product|214625|MIN|hydrochlorothiazide / timolol
+product	containing	hydrochlorothiazide	and	valsartan	medicinal	product|214626|MIN|hydrochlorothiazide / valsartan
+product	containing	hydroflumethiazide	and	spironolactone	medicinal	product|151194|MIN|hydroflumethiazide / spironolactone
+product	containing	imidapril	medicinal	product|60245|IN|imidapril
+product	containing	indapamide	and	perindopril	medicinal	product|388499|MIN|indapamide / perindopril
+product	containing	irbesartan	medicinal	product|83818|IN|irbesartan
+product	containing	isosorbide	dinitrate	medicinal	product|6058|IN|isosorbide dinitrate
+product	containing	ivabradine	medicinal	product|1649480|IN|ivabradine
+product	containing	labetalol	medicinal	product|6185|IN|labetalol
+product	containing	latanoprost	and	timolol	medicinal	product|388053|MIN|latanoprost / timolol
+product	containing	lisinopril	medicinal	product|29046|IN|lisinopril
+product	containing	losartan	medicinal	product|52175|IN|losartan
+product	containing	metolazone	medicinal	product|6916|IN|metolazone
+product	containing	moexipril	medicinal	product|30131|IN|moexipril
+product	containing	nadolol	medicinal	product|7226|IN|nadolol
+product	containing	nebivolol	medicinal	product|31555|IN|nebivolol
+product	containing	olmesartan	medicinal	product|321064|IN|olmesartan
+product	containing	perindopril	medicinal	product|54552|IN|perindopril
+product	containing	pindolol	medicinal	product|8332|IN|pindolol
+product	containing	propranolol	medicinal	product|8787|IN|propranolol
+product	containing	quinapril	medicinal	product|35208|IN|quinapril
+product	containing	ramipril	medicinal	product|35296|IN|ramipril
+product	containing	sacubitril	and	valsartan	medicinal	product|1656339|MIN|sacubitril / valsartan
+product	containing	sotalol	medicinal	product|9947|IN|sotalol
+product	containing	spironolactone	medicinal	product|9997|IN|spironolactone
+product	containing	telmisartan	medicinal	product|73494|IN|telmisartan
+product	containing	timolol	medicinal	product|10600|IN|timolol
+product	containing	torasemide	medicinal	product|38413|IN|torsemide
+product	containing	trandolapril	and	verapamil	medicinal	product|214866|MIN|trandolapril / verapamil
+product	containing	trandolapril	medicinal	product|38454|IN|trandolapril
+product	containing	valsartan	medicinal	product|69749|IN|valsartan
+propanalol|8787|IN|propranolol
+propanolol|8787|IN|propranolol
+propranolol|8787|IN|propranolol
+propranolol	and	other	combinations|1865236|MIN|Propranolol and other combinations
+propranolol	and	thiazides|1429738|BN|Propranolol and thiazides
+propranolol	glycol|2105554|IN|propranolol glycol
+propranolol	hcl|82084|PIN|propranolol hydrochloride
+propranolol	hydrochloride|82084|PIN|propranolol hydrochloride
+propranolol	hydrochloride	er|2390756|IN|Propranolol hydrochloride er
+propranolol	hydrochloride	la|284846|BN|Propranolol hydrochloride la
+propranolol	hydrochloride	substance|82084|PIN|propranolol hydrochloride
+propranolol	substance|8787|IN|propranolol
+propranolol containing	product|8787|IN|propranolol
+propranololo|8787|IN|propranolol
+propranololum|8787|IN|propranolol
+prosartan|83515|IN|eprosartan
+quinapril|35208|IN|quinapril
+quinapril	and	diuretics|1429736|BN|Quinapril and diuretics
+quinapril	hcl|235759|PIN|quinapril hydrochloride
+quinapril	hydrochloride|235759|PIN|quinapril hydrochloride
+quinapril	hydrochloride	substance|235759|PIN|quinapril hydrochloride
+quinapril	magnesium|1433840|BN|Quinapril magnesium
+quinapril	substance|35208|IN|quinapril
+quinapril containing	product|35208|IN|quinapril
+quinaprilum|35208|IN|quinapril
+ramipril|35296|IN|ramipril
+ramipril	amlodipine	and	hydrochlorothiazide|1996273|MIN|Ramipril, amlodipine and hydrochlorothiazide
+ramipril	and	amlodipine|1431056|MIN|Ramipril and amlodipine
+ramipril	and	bisoprolol|2473249|IN|Ramipril and bisoprolol
+ramipril	and	diuretics|1429735|BN|Ramipril and diuretics
+ramipril	and	felodipine|389179|MIN|felodipine / ramipril
+ramipril	substance|35296|IN|ramipril
+ramipril containing	product|35296|IN|ramipril
+ramiprilum|35296|IN|ramipril
+rosuvastatin	amlodipine	and	lisinopril|1598408|MIN|Rosuvastatin, amlodipine and lisinopril
+rosuvastatin	amlodipine	and	perindopril|1996275|MIN|Rosuvastatin, amlodipine and perindopril
+rosuvastatin	and	ramipril|2273296|BN|Rosuvastatin and ramipril
+rosuvastatin	and	valsartan|1727498|MIN|Rosuvastatin and valsartan
+rosuvastatin	perindopril	and	indapamide|1996276|MIN|Rosuvastatin, perindopril and indapamide
+rs 1 4 2 isopropoxyethoxymethylphenoxy 3 isopropylamino 2 propanol|19484|IN|bisoprolol
+s 1 n 1 ethoxycarbonyl 3 phenylpropyl l alanyl l proline|3827|IN|enalapril
+s 1 n2 1 carboxy 3 phenylpropyl l lysyl l proline|29046|IN|lisinopril
+s 1 s 2 1 s ethoxycarbonyl 3 phenyl propylamino propionyl pyrrolidine 2 carboxylic	acid|3827|IN|enalapril
+s 1 tert butylamino 3 4 morpholin 4 yl 1 2 5 thiadiazol 3 yloxypropan 2 ol|10600|IN|timolol
+s atenolol|1431126|BN|S-atenolol
+s n valeryl n 2 1h tetrazol 5 ylbiphenyl 4 yl methyl valine|69749|IN|valsartan
+sacubitril|1656328|IN|sacubitril
+sacubitril	substance|1656328|IN|sacubitril
+sacubitril	valsartan|1656339|MIN|sacubitril / valsartan
+sacubitril 	and	valsartan containing	product|1656339|MIN|sacubitril / valsartan
+sacubitril valsartan|1656339|MIN|sacubitril / valsartan
+sacubitrilo|1656328|IN|sacubitril
+saxagliptin	and	dapagliflozin|1727500|MIN|dapagliflozin / saxagliptin
+simvastatin	acetylsalicylic	acid	and	ramipril|1431060|MIN|Simvastatin, acetylsalicylic acid and ramipril
+sitagliptin	and	ertugliflozin|1992825|MIN|ertugliflozin / sitagliptin
+sorbide	nitrate|6058|IN|isosorbide dinitrate
+sorbidnitrate|6058|IN|isosorbide dinitrate
+sotalol|9947|IN|sotalol
+sotalol	and	acetylsalicylic	acid|1865237|MIN|Sotalol and acetylsalicylic acid
+sotalol	and	thiazides|1431061|MIN|Sotalol and thiazides
+sotalol	hcl|7008|PIN|sotalol hydrochloride
+sotalol	hydrochloride|7008|PIN|sotalol hydrochloride
+sotalol	hydrochloride	af|647348|BN|Sotalol hydrochloride af
+sotalol	hydrochloride	afobsolete|647348|BN|Sotalol hydrochloride af(obsolete)
+sotalol	hydrochloride	substance|7008|PIN|sotalol hydrochloride
+sotalol	substance|9947|IN|sotalol
+sotalol containing	product|9947|IN|sotalol
+sotalolo|9947|IN|sotalol
+sotalolum|9947|IN|sotalol
+spirapril|36908|IN|spirapril
+spirapril	hcl|498826|IN|Spirapril hcl
+spirapril	hydrochloride|498826|IN|Spirapril hydrochloride
+spirapril	substance|36908|IN|spirapril
+spiraprilum|36908|IN|spirapril
+spironolactone|9997|IN|spironolactone
+spironolactone	micronized|701086|IN|Spironolactone, micronized
+spironolactone	plus|220005|BN|Spironolactone Plus
+spironolactone	substance|9997|IN|spironolactone
+spironolactone containing	product|9997|IN|spironolactone
+spironolactonum|9997|IN|spironolactone
+spironolattone|9997|IN|spironolactone
+telmisartan|73494|IN|telmisartan
+telmisartan	amlodipine	and	hydrochlorothiazide|2631893|BN|Telmisartan, amlodipine and hydrochlorothiazide
+telmisartan	and	amlodipine|901212|MIN|amlodipine / telmisartan
+telmisartan	and	diuretics|1429727|BN|Telmisartan and diuretics
+telmisartan	substance|73494|IN|telmisartan
+telmisartan containing	product|73494|IN|telmisartan
+temocapril|228334|BN|Temocapril
+temocapril	hcl|67922|PIN|Temocapril hcl
+timolol|10600|IN|timolol
+timolol	and	thiazides|1431069|MIN|Timolol and thiazides
+timolol	anhydrous|1546004|PIN|timolol anhydrous
+timolol	as	maleate|42933|PIN|timolol maleate
+timolol	combinations|1429674|BN|Timolol, combinations
+timolol	hemihydrate|221172|PIN|timolol hemihydrate
+timolol	hemihydrate	ophthalmic|220315|BN|Timolol hemihydrate, ophthalmic
+timolol	maleate|42933|PIN|timolol maleate
+timolol	maleate	eqv istalol|2276847|IN|Timolol maleate (eqv-istalol)
+timolol	maleate	eqv timoptic|2372210|MIN|Timolol maleate (eqv-timoptic)
+timolol	maleate	ophthalmic|1598582|IN|Timolol maleate, ophthalmic
+timolol	maleate	ophthalmic	obsolete|1598582|IN|Timolol maleate, ophthalmic (obsolete)
+timolol	maleate	substance|42933|PIN|timolol maleate
+timolol	ophthalmic|1157100|BN|Timolol, ophthalmic
+timolol	substance|10600|IN|timolol
+timolol	thiazides	and	other	diuretics|1429788|BN|Timolol, thiazides and other diuretics
+timolol containing	product|10600|IN|timolol
+timololo|10600|IN|timolol
+timololum|10600|IN|timolol
+toras mide|38413|IN|torsemide
+torasemida|38413|IN|torsemide
+torasemide|38413|IN|torsemide
+torasemide	substance|38413|IN|torsemide
+torasemide containing	product|38413|IN|torsemide
+torasemidum|38413|IN|torsemide
+torsemide|38413|IN|torsemide
+torsemide containing	product|38413|IN|torsemide
+trandolapril|38454|IN|trandolapril
+trandolapril	and	verapamil|214866|MIN|trandolapril / verapamil
+trandolapril	substance|38454|IN|trandolapril
+trandolapril	verapamil|214866|MIN|trandolapril / verapamil
+trandolapril 	and	verapamil containing	product|214866|MIN|trandolapril / verapamil
+trandolapril containing	product|38454|IN|trandolapril
+trandolapril verapamil|214866|MIN|trandolapril / verapamil
+trandolapril verapamil	hydrochloride|153755|BN|Trandolapril-verapamil hydrochloride
+trandolaprilum|38454|IN|trandolapril
+trolandapril|38454|IN|trandolapril
+valsartan|69749|IN|valsartan
+valsartan	amlodipine	and	hydrochlorothiazide|852897|MIN|amlodipine / hydrochlorothiazide / valsartan
+valsartan	and	aliskiren|900937|MIN|aliskiren / valsartan
+valsartan	and	amlodipine|729455|MIN|amlodipine / valsartan
+valsartan	and	diuretics|1429776|BN|Valsartan and diuretics
+valsartan	and	lercanidipine|1727502|MIN|Valsartan and lercanidipine
+valsartan	and	nebivolol|1798280|MIN|nebivolol / valsartan
+valsartan	and	sacubitril|1656339|MIN|sacubitril / valsartan
+valsartan	substance|69749|IN|valsartan
+valsartan containing	product|69749|IN|valsartan

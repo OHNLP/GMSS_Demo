@@ -1,0 +1,13 @@
+./context/contextRule.txt
+./posthoc_settings.json
+./regexp/resources_regexp_reACEi.txt
+./regexp/resources_regexp_reARB.txt
+./regexp/resources_regexp_reARNI.txt
+./regexp/resources_regexp_rebetaBlockers.txt
+./regexp/resources_regexp_reDiuretics.txt
+./regexp/resources_regexp_reHFSymptoms.txt
+./regexp/resources_regexp_reMRA.txt
+./regexp/resources_regexp_reSGLT.txt
+./regexp/resources_regexp_reVasodilator.txt
+./regexp/resources_regexp_reIvabradine.txt
+./rules/resources_rules_matchrules.txt
