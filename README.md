@@ -6,6 +6,78 @@
 
 ---
 
+## Pre-Installation: Java and Python
+
+Before running the pipeline, make sure **Java** and **Python** are installed on your computer. This only needs to be done once.
+
+---
+
+### Install Java (JDK 21)
+
+**Windows**
+1. Go to https://adoptium.net/
+2. Click **Latest LTS Release** — this downloads JDK 21.
+3. Run the installer and follow the prompts. Leave all default settings as-is.
+4. Verify — open Command Prompt and type:
+   ```
+   java --version
+   ```
+   You should see something like: `openjdk 21.x.x`
+
+**Mac**
+1. Go to https://adoptium.net/
+2. Click **Latest LTS Release** — choose the macOS `.pkg` file.
+3. Open the downloaded file and follow the prompts.
+4. Verify — open Terminal and type:
+   ```
+   java --version
+   ```
+   You should see something like: `openjdk 21.x.x`
+
+**Linux (Ubuntu / Debian)**
+```bash
+sudo apt update && sudo apt install openjdk-21-jdk -y
+java --version
+```
+
+> **Note for Windows users:** If you see `'java' is not recognized`, restart your computer after installation and try again.
+
+---
+
+### Install Python
+
+**Windows**
+1. Go to https://www.python.org/downloads/
+2. Click the yellow **Download Python** button (latest version).
+3. Run the downloaded file.
+4. **IMPORTANT:** Check the box that says **"Add Python to PATH"** before clicking Install.
+5. Click **Install Now** and wait for it to finish.
+6. Verify — open Command Prompt and type:
+   ```
+   python --version
+   ```
+   You should see something like: `Python 3.x.x`
+
+**Mac**
+1. Go to https://www.python.org/downloads/
+2. Click the yellow **Download Python** button (latest version).
+3. Open the downloaded `.pkg` file and follow the prompts.
+4. Verify — open Terminal and type:
+   ```
+   python3 --version
+   ```
+   You should see something like: `Python 3.x.x`
+
+**Linux (Ubuntu / Debian)**
+```bash
+sudo apt update && sudo apt install python3 python3-pip -y
+python3 --version
+```
+
+> **Stuck?** Arrive 15 minutes early at the workshop and we will help you get set up.
+
+---
+
 ## Overview
 
 AIDE4HF is an NIA A2Pilot funded hybrid NLP pipeline that automatically extracts **heart failure (HF) medications**, **clinical symptoms**, and **adverse drug event (ADE) signals** from free-text clinical notes in electronic health records (EHR).
