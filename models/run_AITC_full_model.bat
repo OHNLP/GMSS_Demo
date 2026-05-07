@@ -1,18 +1,19 @@
 @echo off
-REM run_model.bat — AIDE4HF pipeline launcher for Windows
+chcp 65001 >nul
+REM run_model.bat -- AIDE4HF pipeline launcher for Windows
 REM Usage: run_model.bat [IN_DIR] [OUT_DIR] [RULES_DIR]
 REM   All three arguments are optional; they override the defaults below.
 setlocal EnableDelayedExpansion
 
-REM ── Resolve script location ──────────────────────────────────────────────────
+REM -- Resolve script location --
 set "SCRIPT_DIR=%~dp0"
 REM Remove trailing backslash
 if "%SCRIPT_DIR:~-1%"=="\" set "SCRIPT_DIR=%SCRIPT_DIR:~0,-1%"
 
-REM ═══════════════════════════════════════════════════════════════════
-REM  CONFIG — edit these defaults or pass them as positional arguments:
+REM ===================================================================
+REM  CONFIG -- edit these defaults or pass them as positional arguments:
 REM    run_model.bat C:\GMSS\input C:\GMSS\output C:\GMSS\models\AITC
-REM ═══════════════════════════════════════════════════════════════════
+REM ===================================================================
 if not "%~1"=="" (set "IN_DIR=%~1") else (set "IN_DIR=C:\Users\sfu3\Desktop\GMSS\input")
 if not "%~2"=="" (set "OUT_DIR=%~2") else (set "OUT_DIR=C:\Users\sfu3\Desktop\GMSS\output")
 if not "%~3"=="" (set "RULES_DIR=%~3") else (set "RULES_DIR=C:\Users\sfu3\Desktop\GMSS\models\AITC")
@@ -23,7 +24,7 @@ set "COMBINED=%OUT_DIR%\_combined.out"
 set "LOG=%OUT_DIR%\pipeline.log"
 set "CONVERTER=%SCRIPT_DIR%\convert_xml.py"
 
-REM ── Pre-flight checks ────────────────────────────────────────────────────────
+REM -- Pre-flight checks --
 where java >nul 2>&1
 if errorlevel 1 (
     echo [ERROR] 'java' not found on PATH. Please install the JDK and try again.
@@ -46,13 +47,13 @@ if not exist "%IN_DIR%" (
     exit /b 1
 )
 
-REM ── Setup ────────────────────────────────────────────────────────────────────
+REM -- Setup --
 if not exist "%OUT_DIR%" mkdir "%OUT_DIR%"
 
 REM Rotate previous log
 if exist "%LOG%" move /y "%LOG%" "%OUT_DIR%\pipeline_prev.log" >nul
 
-REM Remove previous outputs (del /f is silent on no-match, unlike bash rm -f)
+REM Remove previous outputs
 del /f /q "%OUT_DIR%\*.xml" >nul 2>&1
 if exist "%COMBINED%" del /f /q "%COMBINED%"
 
@@ -63,7 +64,7 @@ echo   OUT  : %OUT_DIR%
 echo   Rules: %RULES_DIR%
 echo ================================================
 
-REM ── Step 1: MedTagger ────────────────────────────────────────────────────────
+REM -- Step 1: MedTagger --
 echo [1/3] Running MedTagger...
 java -Xms512M -Xmx2000M -jar "%SCRIPT_DIR%\MedTagger-fit-context.jar" ^
      "%IN_DIR%" "%OUT_DIR%" "%RULES_DIR%" >>"%LOG%" 2>&1
@@ -73,7 +74,7 @@ if errorlevel 1 (
 )
 echo       MedTagger done.
 
-REM ── Step 2: MedXN ────────────────────────────────────────────────────────────
+REM -- Step 2: MedXN --
 echo [2/3] Running MedXN...
 java -cp "%CLASSPATH%" org.ohnlp.medxn.Main ^
      "%IN_DIR%" "%COMBINED%" >>"%LOG%" 2>&1
@@ -94,18 +95,25 @@ for %%A in ("%COMBINED%") do if %%~zA==0 (
 )
 echo       MedXN done.
 
-REM ── Step 3: Convert to XML ───────────────────────────────────────────────────
+REM -- Step 3: Convert to XML --
+REM NOTE: 'tee' is not available in Windows CMD.
+REM       Output is appended to the log file. On error, the log is printed to console.
 echo [3/3] Converting to XML...
 python "%CONVERTER%" ^
     --in-dir   "%IN_DIR%"   ^
     --out-dir  "%OUT_DIR%"  ^
-    --combined "%COMBINED%" 2>&1 | tee "%LOG%"
+    --combined "%COMBINED%" >>"%LOG%" 2>&1
 if errorlevel 1 (
-    echo [ERROR] XML conversion failed -- check %LOG%
+    echo [ERROR] XML conversion failed. Log output:
+    echo ------------------------------------------------
+    type "%LOG%"
+    echo ------------------------------------------------
     exit /b 1
 )
+echo       XML conversion done.
 
 echo ================================================
 echo [OK] Pipeline complete. Output: %OUT_DIR%
+echo       Full log saved to: %LOG%
 echo ================================================
 endlocal
