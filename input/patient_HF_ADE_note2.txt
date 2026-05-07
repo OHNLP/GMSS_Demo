@@ -1,0 +1,61 @@
+PATIENT ENCOUNTER NOTE
+Date: 04/02/2025
+Provider: Dr. L. Chen, MD – Heart Failure Clinic
+
+PATIENT: 65 y.o. female
+PMH: Heart failure with preserved ejection fraction (HFpEF, LVEF 55%), hypertension, type 2 diabetes mellitus, obesity (BMI 36), obstructive sleep apnea on CPAP, mild aortic stenosis
+
+CHIEF COMPLAINT: Dry persistent cough, ankle swelling, and palpitations.
+
+HISTORY OF PRESENT ILLNESS:
+Ms. R.V. is a 65-year-old female with HFpEF who presents for follow-up with a 6-week history of a dry, non-productive cough that has been disruptive to her sleep. She was started on lisinopril 10 mg daily 8 weeks ago for blood pressure management and heart failure. She also reports new ankle swelling and intermittent palpitations over the past month. She denies chest pain, fever, or hemoptysis.
+
+She was recently started on amlodipine 10 mg daily for additional blood pressure control after her home readings remained elevated on lisinopril alone. She also takes empagliflozin 10 mg daily, metformin 1000 mg twice daily, and hydrochlorothiazide 25 mg daily.
+
+REVIEW OF SYSTEMS:
+Positive: dry persistent cough, bilateral ankle swelling, palpitations, dyspnea on exertion, fatigue.
+Negative: chest pain, orthopnea, PND, syncope, wheezing, fever.
+
+VITALS:
+BP: 148/92 mmHg
+HR: 94 bpm, irregular
+SpO2: 97% on room air
+Weight: 213 lbs (up 4 lbs from last visit)
+
+PHYSICAL EXAM:
+General: Obese female in no acute distress. Coughing intermittently during visit.
+Cardiovascular: Irregular rate and rhythm. No significant murmurs appreciated. No JVD.
+Pulmonary: Clear to auscultation bilaterally. No wheezes or crackles.
+Extremities: 1+ pitting edema bilateral ankles.
+
+LABS:
+Creatinine: 1.1 mg/dL (baseline 1.0)
+Potassium: 3.7 mEq/L
+BNP: 310 pg/mL
+HbA1c: 7.4%
+Fasting glucose: 138 mg/dL
+
+CARDIAC INVESTIGATIONS:
+EKG: Atrial fibrillation with rapid ventricular response, HR 94–108 bpm. No ST segment changes. No signs of left ventricular hypertrophy.
+Holter monitor (ordered at last visit): Confirmed paroxysmal atrial fibrillation, multiple episodes ranging 2–18 minutes over 24-hour period.
+
+ASSESSMENT/PLAN:
+
+1. Heart Failure with Preserved Ejection Fraction (HFpEF)
+Patient with known HFpEF now presenting with weight gain and increased lower extremity edema. BNP mildly elevated at 310. Volume status mildly overloaded. Will continue hydrochlorothiazide and empagliflozin (which also provides diuretic and cardiac benefit in HFpEF). Dietary sodium restriction reinforced. Follow-up echo in 3 months.
+
+2. Dry cough – suspected ADE from lisinopril
+Patient developed a persistent dry cough approximately 2 weeks after starting lisinopril, a classic adverse effect of ACE inhibitor therapy. Given the significant impact on quality of life and sleep, will discontinue lisinopril and transition to losartan 50 mg daily (ARB), which does not carry the same cough side effect. Counsel patient that cough should resolve within 1–4 weeks.
+
+3. Bilateral ankle edema – suspected ADE from amlodipine
+Patient's ankle swelling is temporally consistent with initiation of amlodipine 10 mg daily, a well-known adverse effect of dihydropyridine calcium channel blockers due to peripheral vasodilation. Will reduce amlodipine to 5 mg daily. Blood pressure to be monitored closely given additional dose reduction. If edema persists, may consider switching to alternative antihypertensive agent.
+
+4. New-onset atrial fibrillation with rapid ventricular response
+Holter confirms paroxysmal AFib. In the context of HFpEF, rate control preferred. Will initiate metoprolol succinate 25 mg daily for rate control. Given CHADS2-VASc score of 4 (female sex, age ≥65, hypertension, diabetes), anticoagulation indicated. Will start apixaban 5 mg twice daily. Referred to electrophysiology for further evaluation. Patient counseled on stroke risk and signs of bleeding.
+
+5. Hypertension – suboptimally controlled
+BP 148/92 today despite lisinopril (to be discontinued) and amlodipine (being reduced). Transitioning to losartan as above. Will reassess BP in 2 weeks and uptitrate losartan if needed. Continue lifestyle modifications: low-sodium diet, weight reduction.
+
+FOLLOW-UP: 2 weeks for BP recheck, cough reassessment, and medication tolerance evaluation.
+
+Electronically signed: Dr. L. Chen, MD

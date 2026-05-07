@@ -1,0 +1,59 @@
+PATIENT ENCOUNTER NOTE
+Date: 03/14/2025
+Provider: Dr. M. Patel, MD – Cardiology
+
+PATIENT: 72 y.o. male
+PMH: Heart failure with reduced ejection fraction (HFrEF, LVEF 28%), ischemic cardiomyopathy, type 2 diabetes mellitus, CKD stage 3, atrial fibrillation
+
+CHIEF COMPLAINT: Dizziness, worsening fatigue, and bilateral leg swelling.
+
+HISTORY OF PRESENT ILLNESS:
+Mr. D.T. is a 72-year-old male with known HFrEF presenting for follow-up. Over the past 3 weeks, he reports new-onset dizziness and lightheadedness, especially upon standing. He also endorses worsening bilateral leg swelling and progressive exertional dyspnea with minimal activity. He denies chest pain, syncope, or palpitations.
+
+He was uptitrated on sacubitril/valsartan (Entresto) to 49/51 mg twice daily approximately 4 weeks ago. He also takes carvedilol 25 mg twice daily, spironolactone 25 mg daily, and furosemide 80 mg twice daily.
+
+REVIEW OF SYSTEMS:
+Positive: fatigue, bilateral lower extremity edema, dyspnea on exertion, dizziness/lightheadedness on standing.
+Negative: orthopnea, PND, chest pain, fever, syncope.
+
+VITALS:
+BP: 86/54 mmHg (supine); 74/50 mmHg (standing)
+HR: 58 bpm
+SpO2: 95% on room air
+Weight: 198 lbs (up 6 lbs from last visit)
+
+PHYSICAL EXAM:
+General: Fatigued-appearing male in no acute distress.
+Cardiovascular: Regular rate and rhythm, no murmurs. JVD present.
+Pulmonary: Bibasilar crackles noted.
+Extremities: 2+ pitting edema bilateral lower extremities to the knee.
+
+LABS:
+Creatinine: 2.1 mg/dL (baseline 1.4)
+BUN: 38
+Potassium: 5.9 mEq/L
+BNP: 1,840 pg/mL
+
+CARDIAC INVESTIGATIONS:
+EKG: Sinus bradycardia, HR 58 bpm. Normal PR interval. No acute ST changes.
+
+ASSESSMENT/PLAN:
+
+1. Heart Failure (HFrEF, LVEF 28%)
+Patient presents with decompensated heart failure with volume overload evidenced by weight gain, bilateral edema, bibasilar crackles, and elevated BNP. Will uptitrate furosemide to 100 mg twice daily. Repeat BMP in 5 days to monitor renal function and potassium given worsening creatinine and hyperkalemia. Repeat echocardiogram ordered.
+
+2. Hypotension – suspected ADE from sacubitril/valsartan (Entresto)
+Patient has developed symptomatic hypotension (BP 86/54 mmHg supine, 74/50 mmHg standing) with dizziness and lightheadedness temporally associated with recent uptitration of Entresto to 49/51 mg twice daily. Will downtitrate back to 24/26 mg twice daily. Instructed to rise slowly. Will recheck BP at follow-up in 1 week.
+
+3. Bradycardia – suspected ADE from carvedilol
+Resting heart rate 58 bpm consistent with beta-blocker effect. Patient is symptomatic with fatigue. Will reduce carvedilol from 25 mg to 12.5 mg twice daily and monitor response.
+
+4. Hyperkalemia – suspected ADE from spironolactone in setting of CKD
+Potassium 5.9 mEq/L, elevated in the context of CKD stage 3 and concurrent spironolactone use. Will hold spironolactone pending repeat potassium. Dietary potassium restriction counseling provided.
+
+5. Acute kidney injury on CKD – likely ADE from combined diuretic and RAAS blockade
+Creatinine acutely elevated to 2.1 from baseline 1.4, likely cardiorenal syndrome exacerbated by aggressive diuresis and dual RAAS blockade. Will monitor closely and adjust diuresis accordingly.
+
+FOLLOW-UP: 1 week for repeat vitals, BMP, and medication reassessment.
+
+Electronically signed: Dr. M. Patel, MD
