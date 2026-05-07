@@ -32,9 +32,6 @@
      ================================================================ -->
 
 <!ELEMENT ACEi ( #PCDATA ) >
-<!ATTLIST ACEi spans              CDATA #REQUIRED >
-<!ATTLIST ACEi text               CDATA #REQUIRED >
-<!ATTLIST ACEi id                 CDATA #REQUIRED >
 <!ATTLIST ACEi rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST ACEi dose               CDATA #IMPLIED >
 <!ATTLIST ACEi strength           CDATA #IMPLIED >
@@ -51,9 +48,6 @@
 <!ATTLIST ACEi comment      CDATA #IMPLIED >
 
 <!ELEMENT ARB ( #PCDATA ) >
-<!ATTLIST ARB spans               CDATA #REQUIRED >
-<!ATTLIST ARB text                CDATA #REQUIRED >
-<!ATTLIST ARB id                  CDATA #REQUIRED >
 <!ATTLIST ARB rxnorm_cui          CDATA #IMPLIED >
 <!ATTLIST ARB dose                CDATA #IMPLIED >
 <!ATTLIST ARB strength            CDATA #IMPLIED >
@@ -70,9 +64,6 @@
 <!ATTLIST ARB comment       CDATA #IMPLIED >
 
 <!ELEMENT ARNI ( #PCDATA ) >
-<!ATTLIST ARNI spans              CDATA #REQUIRED >
-<!ATTLIST ARNI text               CDATA #REQUIRED >
-<!ATTLIST ARNI id                 CDATA #REQUIRED >
 <!ATTLIST ARNI rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST ARNI dose               CDATA #IMPLIED >
 <!ATTLIST ARNI strength           CDATA #IMPLIED >
@@ -89,9 +80,6 @@
 <!ATTLIST ARNI comment      CDATA #IMPLIED >
 
 <!ELEMENT betaBlockers ( #PCDATA ) >
-<!ATTLIST betaBlockers spans              CDATA #REQUIRED >
-<!ATTLIST betaBlockers text               CDATA #REQUIRED >
-<!ATTLIST betaBlockers id                 CDATA #REQUIRED >
 <!ATTLIST betaBlockers rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST betaBlockers dose               CDATA #IMPLIED >
 <!ATTLIST betaBlockers strength           CDATA #IMPLIED >
@@ -108,9 +96,6 @@
 <!ATTLIST betaBlockers comment      CDATA #IMPLIED >
 
 <!ELEMENT Diuretics ( #PCDATA ) >
-<!ATTLIST Diuretics spans              CDATA #REQUIRED >
-<!ATTLIST Diuretics text               CDATA #REQUIRED >
-<!ATTLIST Diuretics id                 CDATA #REQUIRED >
 <!ATTLIST Diuretics rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST Diuretics dose               CDATA #IMPLIED >
 <!ATTLIST Diuretics strength           CDATA #IMPLIED >
@@ -138,9 +123,6 @@
 <!ATTLIST HFSymptoms comment      CDATA #IMPLIED >
 
 <!ELEMENT Ivabradine ( #PCDATA ) >
-<!ATTLIST Ivabradine spans              CDATA #REQUIRED >
-<!ATTLIST Ivabradine text               CDATA #REQUIRED >
-<!ATTLIST Ivabradine id                 CDATA #REQUIRED >
 <!ATTLIST Ivabradine rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST Ivabradine dose               CDATA #IMPLIED >
 <!ATTLIST Ivabradine strength           CDATA #IMPLIED >
@@ -157,9 +139,6 @@
 <!ATTLIST Ivabradine comment      CDATA #IMPLIED >
 
 <!ELEMENT MRA ( #PCDATA ) >
-<!ATTLIST MRA spans              CDATA #REQUIRED >
-<!ATTLIST MRA text               CDATA #REQUIRED >
-<!ATTLIST MRA id                 CDATA #REQUIRED >
 <!ATTLIST MRA rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST MRA dose               CDATA #IMPLIED >
 <!ATTLIST MRA strength           CDATA #IMPLIED >
@@ -176,9 +155,6 @@
 <!ATTLIST MRA comment      CDATA #IMPLIED >
 
 <!ELEMENT SGLT ( #PCDATA ) >
-<!ATTLIST SGLT spans              CDATA #REQUIRED >
-<!ATTLIST SGLT text               CDATA #REQUIRED >
-<!ATTLIST SGLT id                 CDATA #REQUIRED >
 <!ATTLIST SGLT rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST SGLT dose               CDATA #IMPLIED >
 <!ATTLIST SGLT strength           CDATA #IMPLIED >
@@ -195,9 +171,6 @@
 <!ATTLIST SGLT comment      CDATA #IMPLIED >
 
 <!ELEMENT Vasodilator ( #PCDATA ) >
-<!ATTLIST Vasodilator spans              CDATA #REQUIRED >
-<!ATTLIST Vasodilator text               CDATA #REQUIRED >
-<!ATTLIST Vasodilator id                 CDATA #REQUIRED >
 <!ATTLIST Vasodilator rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST Vasodilator dose               CDATA #IMPLIED >
 <!ATTLIST Vasodilator strength           CDATA #IMPLIED >
@@ -215,9 +188,6 @@
 
 <!-- Fallback for drugs not mappable to an HF drug class -->
 <!ELEMENT Medication ( #PCDATA ) >
-<!ATTLIST Medication spans              CDATA #REQUIRED >
-<!ATTLIST Medication text               CDATA #REQUIRED >
-<!ATTLIST Medication id                 CDATA #REQUIRED >
 <!ATTLIST Medication rxnorm_cui         CDATA #IMPLIED >
 <!ATTLIST Medication dose               CDATA #IMPLIED >
 <!ATTLIST Medication strength           CDATA #IMPLIED >
